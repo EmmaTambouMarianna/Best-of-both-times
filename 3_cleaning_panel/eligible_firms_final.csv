@@ -1,0 +1,161 @@
+﻿id,nom,annees_valides,eligible
+2,3i Infotech,2,0
+1,10EQS,13,1
+3,4flow,5,0
+4,a-connect,15,1
+6,AArete,15,1
+8,ABS Group of Companies,17,1
+9,Accenture,11,1
+10,AccountAbility,13,1
+11,Accuracy,13,1
+13,Adam Smith International,15,1
+14,Advancy,9,0
+15,Advention Business Partners,3,0
+16,AECOM,16,1
+17,AFRY,4,0
+18,AlignAlytics,0,0
+19,AlixPartners,9,0
+20,Alpha Financial Markets Consulting,14,1
+21,AlphaSights,7,0
+22,Alvarez & Marsal,22,1
+23,Amaris Consulting,10,1
+24,Analysis Group,7,0
+25,Analysys Mason,6,0
+26,Aon,10,1
+27,APCO,12,1
+28,Applied Value Group,0,0
+29,ARCADIS,5,0
+31,Arthur D. Little,17,1
+32,Arup,16,1
+33,AtkinsRealis,5,0
+34,ATOS,13,1
+35,Avasant,14,1
+36,BAE Systems,15,1
+37,Bain & Company,15,1
+38,Baringa,9,0
+39,BCG (Boston Consulting Group),10,1
+42,BCI Global,6,0
+43,BDO,17,1
+44,BearingPoint,14,1
+45,BIP,1,0
+46,Black & Veatch,13,1
+47,BMC Software,24,1
+48,BMT,11,1
+49,Bonfiglioli Consulting,5,0
+50,Booz Allen Hamilton,20,1
+51,Boston Strategies International,16,1
+52,Bourton Group,1,0
+53,BRG,11,1
+54,Brunswick Group,10,1
+55,Burns & McDonnell,12,1
+56,Business for Social Responsibility,21,1
+57,"Cambridge Consultants, part of Capgemini Invent",10,1
+58,Capco,16,1
+59,Capgemini,24,1
+60,Capita,10,1
+61,Cedar Management Consulting,0,0
+62,CGI,18,1
+63,Civica,6,0
+64,Clairfield,18,1
+65,Cognizant,15,1
+67,ConVista Consulting AG,1,0
+68,CRA International,6,0
+69,Credera,6,0
+70,CYLAD Consulting,4,0
+71,Deloitte,18,1
+72,Deloitte Digital,10,1
+73,Detecon,8,0
+74,dss+,0,0
+76,Efficio,15,1
+77,Elixirr,3,0
+78,ERM,8,0
+79,Eurogroup Consulting,10,1
+80,Everest Group,23,1
+81,EY,18,1
+82,"frog, part of Capgemini Invent",4,0
+83,Frost & Sullivan,7,0
+84,FTI Consulting,10,1
+85,Gallup,13,1
+86,Gartner,21,1
+87,Genesis,16,1
+88,Genpact,8,0
+89,GLG,8,0
+90,Grant Thornton,13,1
+91,Grant Thornton Stax,16,1
+92,Guidepoint,10,1
+93,HCLTech,21,1
+94,Health Advances,12,1
+96,Horn & Company,0,0
+97,Horváth,2,0
+98,Houlihan Lokey,3,0
+99,HR Path,0,0
+100,Huron,14,1
+102,ICF International,16,1
+103,IDEO,9,0
+104,Information Services Group,13,1
+105,Infosys,12,1
+106,Ingenics,7,0
+107,Interbrand,14,1
+108,"Inverto, a BCG company",0,0
+109,M2P Consulting,11,1
+110,Mace,16,1
+111,McKinsey & Company,12,1
+112,Marsh (formerly Mercer),3,0
+113,MHP Americas - A Porsche Company,2,0
+114,Miebach Consulting,13,1
+115,Mott MacDonald,13,1
+116,msg group,1,0
+117,NERA Economic Consulting,23,1
+118,North Highland,20,1
+119,NTT Data,9,0
+120,Observatory International,6,0
+121,OC&C Strategy Consultants,10,1
+122,Ogilvy Consulting,2,0
+123,Oliver Wyman,15,1
+124,Oracle Consulting,12,1
+125,P3,4,0
+127,PwC,19,1
+128,Procure4,5,0
+129,Prophet,20,1
+130,Protiviti,13,1
+131,Proxima,13,1
+132,Publicis Sapient,9,0
+133,Inizio Ignite,2,0
+134,Q5,12,1
+135,QinetiQ Group,13,1
+136,Rambøll Management Consulting,6,0
+137,Reply,5,0
+138,RGP,9,0
+139,Ricardo,7,0
+140,Right Management,16,1
+141,Rödl & Partner,9,0
+142,EFESO Management Consultants,8,0
+143,Roland Berger,18,1
+144,Rothschild & Co.,6,0
+145,Savills,23,1
+146,Science Applications International Corporation,21,1
+148,Simon-Kucher,12,1
+149,Slalom Consulting,13,1
+150,Sopra Steria Group,0,0
+151,STAUFEN.,8,0
+152,Syneos Health,0,0
+153,Tata Consultancy Services,13,1
+154,Tech Mahindra,6,0
+155,Tenarai,0,0
+156,The Barton Partnership,13,1
+157,The Bridgespan Group,3,0
+158,The Carbon Trust,10,1
+159,The Cohen Group,23,1
+160,The Hackett Group,15,1
+161,TNG Technology Consulting,6,0
+162,Trinity Consultants,10,1
+164,TriVista,15,1
+165,Turner & Townsend,13,1
+166,UNITY,0,0
+167,Vanto Group,11,1
+168,Vistage,11,1
+169,Wavestone,3,0
+170,Wipro,20,1
+171,Wood Mackenzie,8,0
+172,YAMADA Consulting Group,0,0
+173,ZS,11,1

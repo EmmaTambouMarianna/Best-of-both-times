@@ -1,0 +1,13 @@
+﻿niveau,famille,langue,motif
+coeur,incertitude,en,\buncertain\w*
+coeur,imprevisibilite,en,\bunpredictab\w*|\bunforeseen\b|\bunforeseeable\b|\bunknowable\b|\bunknowns?\b
+coeur,incertitude,fr,\bincertain\w*|\bincertitude\w*
+coeur,imprevisibilite,fr,\bimpr[ée]visib\w*|\bimpr[ée]vu\w*|\binconnu\w*
+associe,volatilite,en,\bvolatil\w*
+associe,turbulence,en,\bturbulen\w*|\bheadwinds?\b|\buncharted\b
+associe,rupture,en,\bdisrupt\w*
+associe,ambiguite,en,\bambigu\w*
+associe,volatilite,fr,\bvolatil\w*
+associe,turbulence,fr,\bturbulen\w*|\bal[ée]as?\b
+associe,rupture,fr,\brupture\w*|\bdisruption\w*|\bperturbation\w*
+associe,ambiguite,fr,\bambigu\w*|\bambigu[ëe]\w*

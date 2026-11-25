@@ -1,0 +1,182 @@
+﻿id;nom;url_generale;annee_debut;id_firme;type_ligne;annee_fondation;statut;motif_exclusion;a_remesurer;note
+1;10EQS;https://www.10eqs.com/;2008;1;firme;2008;Garder;;;
+2;3i Infotech;https://us.3i-infotech.com/;1993;2;firme;1993;Garder;;oui;"Ancien domaine icici-infotech.com ajoute; parent mesure sur us.3i-infotech.com"
+3;4flow;https://www.4flow.com/;2000;3;firme;2000;Garder;;;
+4;a-connect;https://a-connect.com/;2002;4;firme;2002;Garder;;;
+5;A Group Consulting;https://www.agroupconsulting.com/;2003;5;firme;2003;Exclure;couverture_insuffisante;;6 annees archivees
+6;AArete;https://www.aarete.com/;2008;6;firme;2008;Garder;;;
+7;ABeam Consulting;https://www.abeam.com/jp/en/;1981;7;firme;1981;Exclure;couverture_insuffisante;;"6 annees archivees; ancien site (Deloitte Tohmatsu Consulting) non retrouve"
+8;ABS Group of Companies;https://www.abs-group.com/;1971;8;firme;1971;Garder;;;
+9;Accenture;https://www.accenture.com;1989;9;firme;1989;Garder;;oui;URL corrigee (sans /en)
+10;AccountAbility;https://www.accountability.org/;1995;10;firme;1995;Garder;;;
+11;Accuracy;https://www.accuracy.com/;2011;11;firme;2004;Garder;;oui;Archive valide a partir de 2011 (domaine anterieur a la fondation)
+12;ACENSI;https://acensi.group/en/;2009;12;firme;2009;Exclure;couverture_insuffisante;;5 annees archivees apres correction de l'URL
+13;Adam Smith International;https://adamsmithinternational.com/;1992;13;firme;1992;Garder;;;
+14;Advancy;https://www.advancy.com/;1999;14;firme;1999;Garder;;;
+15;Advention Business Partners;https://www.adventionbp.com/;2001;15;firme;2001;Garder;;;
+16;AECOM;https://aecom.com/;1990;16;firme;1990;Garder;;;
+17;AFRY;https://afry.com;1895;17;firme;1895;Garder;;;
+18;AlignAlytics;https://www.alignalytics.com;1995;18;firme;1995;Garder;;;
+19;AlixPartners;https://www.alixpartners.com;1981;19;firme;1981;Garder;;;
+20;Alpha Financial Markets Consulting;https://www.alphafmc.com;2003;20;firme;2003;Garder;;;
+21;AlphaSights;https://www.alphasights.com;2008;21;firme;2008;Garder;;;
+22;Alvarez & Marsal;https://www.alvarezandmarsal.com;1983;22;firme;1983;Garder;;;
+23;Amaris Consulting;https://www.amaris.com;2011;23;firme;2007;Garder;;oui;Archive valide a partir de 2011
+24;Analysis Group;https://www.analysisgroup.com;1981;24;firme;1981;Garder;;;
+25;Analysys Mason;https://www.analysysmason.com;1985;25;firme;1985;Garder;;;
+26;Aon;https://www.aon.com;1982;26;firme;1982;Garder;;;
+27;APCO;https://apcoworldwide.com;1984;27;firme;1984;Garder;;;
+28;Applied Value Group;https://www.appliedvalue.com;1997;28;firme;1997;Garder;;;
+29;ARCADIS;https://www.arcadis.com;1888;29;firme;1888;Garder;;;
+30;Argon & Co;https://argon-co.com;2001;30;firme;2001;Exclure;couverture_insuffisante;;3 annees + 3 annees sur l'ancien domaine argon-consulting.com (2009-2011)
+31;Arthur D. Little;https://www.adlittle.com;1886;31;firme;1886;Garder;;oui;
+32;Arup;https://www.arup.com;1946;32;firme;1946;Garder;;;
+33;AtkinsRealis;https://www.atkinsrealis.com;1938;33;firme;1938;Garder;;oui;
+34;ATOS;https://atos.net;1997;34;firme;1997;Garder;;;
+35;Avasant;https://avasant.com;2006;35;firme;2006;Garder;;;
+36;BAE Systems;https://www.baesystems.com;1999;36;firme;1999;Garder;;;
+37;Bain & Company;https://www.bain.com;1973;37;firme;1973;Garder;;;
+38;Baringa;https://www.baringa.com;2000;38;firme;2000;Garder;;;
+39;BCG (Boston Consulting Group);https://www.bcg.com;1963;39;firme;1963;Garder;;;
+40;BCG Platinion;https://www.bcg.com/beyond-consulting/bcg-platinion;2000;40;firme;2000;Exclure;couverture_insuffisante;;"Section de bcg.com; une seule capture (2022)"
+41;BCG X;https://www.bcg.com/x;1963;41;firme;1963;Exclure;couverture_insuffisante;;"Section de bcg.com; lance en decembre 2022 (3 annees)"
+42;BCI Global;https://www.bcgsearch.com;1985;42;firme;1985;Garder;;;
+43;BDO;https://www.bdo.com;1963;43;firme;1963;Garder;;;
+44;BearingPoint;https://www.bearingpoint.com;2002;44;firme;2002;Garder;;;
+45;BIP;https://www.bip-group.com;2003;45;firme;2003;Garder;;;
+46;Black & Veatch;https://www.bv.com;1915;46;firme;1915;Garder;;;
+47;BMC Software;https://www.bmc.com;1980;47;firme;1980;Garder;;;
+48;BMT;https://www.bmt.org;1985;48;firme;1985;Garder;;;
+49;Bonfiglioli Consulting;https://www.bonfiglioliconsulting.com;1973;49;firme;1973;Garder;;oui;"Ancien domaine bcsoa.it (italien) confirme et ajoute; couverture combinee a calculer (8 annees sur le domaine actuel)"
+50;Booz Allen Hamilton;https://www.boozallen.com;1914;50;firme;1914;Garder;;;
+51;Boston Strategies International;https://www.bostonstrategies.com;1998;51;firme;1998;Garder;;;
+52;Bourton Group;https://www.bourtongroup.com;1963;52;firme;1963;Garder;;;
+53;BRG;https://www.thinkbrg.com;2010;53;firme;2010;Garder;;;
+54;Brunswick Group;https://www.brunswickgroup.com;1987;54;firme;1987;Garder;;;
+55;Burns & McDonnell;https://www.burnsmcd.com;1898;55;firme;1898;Garder;;;
+56;Business for Social Responsibility;https://www.bsr.org;1992;56;firme;1992;Garder;;;
+57;Cambridge Consultants, part of Capgemini Invent;https://www.cambridgeconsultants.com;1960;57;firme;1960;Garder;;;
+58;Capco;https://www.capco.com;1998;58;firme;1998;Garder;;;
+59;Capgemini;https://www.capgemini.com;1967;59;firme;1967;Garder;;;
+60;Capita;https://www.capita.com;1984;60;firme;1984;Garder;;;
+61;Cedar Management Consulting;https://www.cedarmc.com;1985;61;firme;1985;Garder;;;
+62;CGI;https://www.cgi.com;1976;62;firme;1976;Garder;;;
+63;Civica;https://www.civica.com;2001;63;firme;2001;Garder;;;
+64;Clairfield;https://www.clairfield.com;2004;64;firme;2004;Garder;;;
+65;Cognizant;https://www.cognizant.com;1994;65;firme;1994;Garder;;;
+66;CONTUR;https://www.contur-group.com;1997;66;firme;1997;Exclure;couverture_insuffisante;;5 annees archivees sur la bonne URL (contourgroupconsulting.com)
+67;ConVista Consulting AG;https://www.convista.com;1999;67;firme;1999;Garder;;;
+68;CRA International;https://www.crai.com;1965;68;firme;1965;Garder;;;
+69;Credera;https://www.credera.com;1999;69;firme;1999;Garder;;;
+70;CYLAD Consulting;https://www.cylad.com;2007;70;firme;2007;Garder;;;
+71;Deloitte;https://www.deloitte.com;1845;71;firme;1845;Garder;;;
+72;Deloitte Digital;https://www.deloittedigital.com;1999;72;firme;1999;Garder;;;"Sous-marque avec domaine propre (deloittedigital.com); URL confirmee"
+73;Detecon;https://www.detecon.com;1977;73;firme;1977;Garder;;;
+74;dss+;https://www.dssplus.com;1968;74;firme;1968;Garder;;;
+75;EAC International Consulting;https://www.eac-international.com;1992;75;firme;1992;Exclure;url_introuvable;;Ancien domaine eac-consulting.de inaccessible sur Wayback
+76;Efficio;https://www.efficioconsulting.com;2000;76;firme;2000;Garder;;;
+77;Elixirr;https://www.elixirr.com;2009;77;firme;2009;Garder;;;
+78;ERM;https://www.erm.com;1971;78;firme;1971;Garder;;;
+79;Eurogroup Consulting;https://www.eurogroupconsulting.com;1982;79;firme;1982;Garder;;;
+80;Everest Group;https://www.everestgrp.com;1991;80;firme;1991;Garder;;;
+81;EY;https://www.ey.com;1903;81;firme;1903;Garder;;;
+82;frog, part of Capgemini Invent;https://www.frog.co;1969;82;firme;1969;Garder;;;
+83;Frost & Sullivan;https://www.frost.com;1961;83;firme;1961;Garder;;;
+84;FTI Consulting;https://www.fticonsulting.com;1982;84;firme;1982;Garder;;;
+85;Gallup;https://www.gallup.com;1935;85;firme;1935;Garder;;;
+86;Gartner;https://www.gartner.com;1979;86;firme;1979;Garder;;;
+87;Genesis;https://www.genesis-analytics.com;1988;87;firme;1988;Garder;;;
+88;Genpact;https://www.genpact.com;1997;88;firme;1997;Garder;;;
+89;GLG;https://glginsights.com;1998;89;firme;1998;Garder;;oui;
+90;Grant Thornton;https://www.grantthornton.com;1986;90;firme;1986;Garder;;;
+91;Grant Thornton Stax;https://www.stax.com;1994;91;firme;1994;Garder;;oui;URL corrigee (domaine propre stax.com)
+92;Guidepoint;https://www.guidepoint.com;2015;92;firme;2003;Garder;;oui;Archive valide a partir de decembre 2015
+93;HCLTech;https://www.hcltech.com;1976;93;firme;1976;Garder;;;
+94;Health Advances;https://www.healthadvances.com;1992;94;firme;1992;Garder;;;
+95;Hitachi Vantara;https://www.hitachivantara.com;1989;95;firme;1989;Exclure;couverture_insuffisante;;"9 annees (<10); entite creee en 2017, predecesseurs hors conseil"
+96;Horn & Company;https://www.horn-company.de;2009;96;firme;2009;Garder;;;Exclusion pour langue annulee: filtre de langue applique page par page apres collecte
+97;Horváth;https://www.horvath-partners.com;1981;97;firme;1981;Garder;;;Exclusion pour langue annulee: filtre de langue applique page par page apres collecte
+98;Houlihan Lokey;https://www.hl.com;1972;98;firme;1972;Garder;;;
+99;HR Path;https://www.hrpath.com;2009;99;firme;2009;Garder;;;
+100;Huron;https://www.huronconsultinggroup.com;2002;100;firme;2002;Garder;;;
+101;IBM Consulting;https://www.ibm.com/consulting;1992;101;firme;1992;Garder;;;"Section dediee ibm.com/consulting (ancien: ibm.com/services); URL confirmee; domaine partage"
+102;ICF International;https://www.icf.com;1969;102;firme;1969;Garder;;;
+103;IDEO;https://www.ideo.com;1991;103;firme;1991;Garder;;;
+104;Information Services Group;https://isg-one.com;2006;104;firme;2006;Garder;;;
+105;Infosys;https://www.infosys.com;1981;105;firme;1981;Garder;;;
+106;Ingenics;https://www.ingenics.com;1979;106;firme;1979;Garder;;;Exclusion pour langue annulee: filtre de langue applique page par page apres collecte
+107;Interbrand;https://www.interbrand.com;1974;107;firme;1974;Garder;;;
+108;Inverto, a BCG company;https://www.inverto.com;2000;108;firme;2000;Garder;;;
+109;M2P Consulting;https://www.m2p.net/;1998;109;firme;1998;Garder;;oui;URL corrigee (m2p.net)
+110;Mace;https://www.macegroup.com;1990;110;firme;1990;Garder;;;
+111;McKinsey & Company;https://www.mckinsey.com;1926;111;firme;1926;Garder;;;
+112;Marsh (formerly Mercer);https://www.marsh.com;1945;112;firme;1945;Garder;;;
+113;MHP Americas - A Porsche Company;https://www.mhp.com;1996;113;firme;1996;Garder;;;
+114;Miebach Consulting;https://www.miebach.com;1973;114;firme;1973;Garder;;;
+115;Mott MacDonald;https://www.mottmac.com;1902;115;firme;1902;Garder;;;
+116;msg group;https://www.msg.group;1980;116;firme;1980;Garder;;oui;
+117;NERA Economic Consulting;https://www.nera.com;1961;117;firme;1961;Garder;;;
+118;North Highland;https://www.northhighland.com;1992;118;firme;1992;Garder;;;
+119;NTT Data;https://www.nttdata.com;1967;119;firme;1967;Garder;;;
+120;Observatory International;https://www.observatoryinternational.com;2006;120;firme;2006;Garder;;oui;URL corrigee
+121;OC&C Strategy Consultants;https://www.occstrategy.com;1987;121;firme;1987;Garder;;;
+122;Ogilvy Consulting;https://www.ogilvy.com;1948;122;firme;1948;Garder;;;
+123;Oliver Wyman;https://www.oliverwyman.com;1984;123;firme;1984;Garder;;;
+124;Oracle Consulting;https://www.oracle.com/consulting;1977;124;firme;1977;Garder;;;
+125;P3;https://www.p3-group.com;1996;125;firme;1996;Garder;;;
+126;Porsche Consulting;https://www.porsche-consulting.com;1994;126;firme;1994;Garder;;oui;"URL confirmee; ancien domaine porsche-consulting.de (allemand) ajoute; couverture combinee a calculer (6 annees sur .com)"
+127;PwC;https://www.pwc.com;1998;127;firme;1998;Garder;;;
+128;Procure4;https://www.procure4.com;2005;128;firme;2005;Garder;;;
+129;Prophet;https://prophet.com;1992;129;firme;1992;Garder;;;
+130;Protiviti;https://www.protiviti.com;2002;130;firme;2002;Garder;;;
+131;Proxima;https://proximagroup.com;1997;131;firme;1997;Garder;;oui;URL corrigee
+132;Publicis Sapient;https://www.publicissapient.com;1990;132;firme;1990;Garder;;oui;
+133;Inizio Ignite;https://inizio.com;1988;133;firme;1988;Garder;;oui;"URL corrigee (inizio.com); ancien nom Inizio Advisory"
+134;Q5;https://www.q5partners.com;2008;134;firme;2008;Garder;;oui;URL corrigee
+135;QinetiQ Group;https://www.qinetiq.com;2001;135;firme;2001;Garder;;;
+136;Rambøll Management Consulting;https://www.ramboll.com;1945;136;firme;1945;Garder;;;
+137;Reply;https://www.reply.com;1996;137;firme;1996;Garder;;;
+138;RGP;https://rgp.com;1996;138;firme;1996;Garder;;;
+139;Ricardo;https://www.ricardo.com;1915;139;firme;1915;Garder;;;
+140;Right Management;https://www.right.com;1980;140;firme;1980;Garder;;;
+141;Rödl & Partner;https://www.roedl.com;1977;141;firme;1977;Garder;;;
+142;EFESO Management Consultants;https://www.efeso.com;1980;142;firme;1980;Garder;;;
+143;Roland Berger;https://www.rolandberger.com;1967;143;firme;1967;Garder;;;
+144;Rothschild & Co.;https://www.rothschildandco.com;1769;144;firme;1769;Garder;;;
+145;Savills;https://www.savills.com;1855;145;firme;1855;Garder;;;
+146;Science Applications International Corporation;https://www.saic.com;1969;146;firme;1969;Garder;;;
+147;Siemens Advanta;https://www.siemens-advanta.com;1996;147;firme;1996;Garder;;;"URL siemens-advanta.com confirmee; ancien nom (Siemens Management Consulting) sans domaine retrouve; 6 annees mesurees"
+148;Simon-Kucher;https://www.simon-kucher.com;1985;148;firme;1985;Garder;;;
+149;Slalom Consulting;https://www.slalom.com;2001;149;firme;2001;Garder;;;
+150;Sopra Steria Group;https://www.soprasteria.com;1968;150;firme;1968;Garder;;;
+151;STAUFEN.;https://www.staufen.ag;1994;151;firme;1994;Garder;;;
+152;Syneos Health;https://www.syneos.com;1984;152;firme;1984;Garder;;;
+153;Tata Consultancy Services;https://www.tcs.com;1968;153;firme;1968;Garder;;oui;URL fonctionne a la main mais 0 capture mesuree: a remesurer
+154;Tech Mahindra;https://www.techmahindra.com;1986;154;firme;1986;Garder;;;
+155;Tenarai;https://www.tenarai.com;2001;155;firme;2001;Garder;;;
+156;The Barton Partnership;https://www.thebartonpartnership.com;2007;156;firme;2007;Garder;;;
+157;The Bridgespan Group;https://www.bridgespan.org;2000;157;firme;2000;Garder;;;
+158;The Carbon Trust;https://www.carbontrust.com;2001;158;firme;2001;Garder;;;
+159;The Cohen Group;https://www.cohengroup.net;2001;159;firme;2001;Garder;;;
+160;The Hackett Group;https://www.thehackettgroup.com;1991;160;firme;1991;Garder;;;
+161;TNG Technology Consulting;https://www.tngtech.com;2001;161;firme;2001;Garder;;;
+162;Trinity Consultants;https://www.trinityconsultants.com;1974;162;firme;1974;Garder;;;
+163;Trinity Life Sciences;https://www.trinitylifesciences.com;1996;163;firme;1996;Exclure;couverture_insuffisante;;"7 annees; ancien domaine (Trinity Partners) introuvable"
+164;TriVista;https://www.trivista.com;2009;164;firme;2006;Garder;;oui;Archive valide a partir de 2009
+165;Turner & Townsend;https://www.turnerandtownsend.com;1946;165;firme;1946;Garder;;;
+166;UNITY;https://www.unity.de;1995;166;firme;1995;Garder;;;
+167;Vanto Group;https://www.vantogroup.com;1992;167;firme;1992;Garder;;;
+168;Vistage;https://www.vistage.com;1957;168;firme;1957;Garder;;;
+169;Wavestone;https://www.wavestone.com;1990;169;firme;1990;Garder;;;
+170;Wipro;https://www.wipro.com;1945;170;firme;1945;Garder;;;
+171;Wood Mackenzie;https://www.woodmac.com;1973;171;firme;1973;Garder;;;
+172;YAMADA Consulting Group;https://www.yamada-cg.co.jp;1989;172;firme;1989;Garder;;;
+173;ZS;https://www.zs.com;1983;173;firme;1983;Garder;;;
+174;AtkinsRealis (ancien domaine (SNC-Lavalin));snclavalin.com;1938;33;ancien_domaine;1938;Lignee;;oui;Rattache a l'id 33
+175;Publicis Sapient (ancien domaine (Sapient));sapient.com;1990;132;ancien_domaine;1990;Lignee;;oui;Rattache a l'id 132
+176;GLG (ancien domaine);glgresearch.com;1998;89;ancien_domaine;1998;Lignee;;oui;Rattache a l'id 89
+177;Arthur D. Little (ancien domaine);arthurdlittle.com;1886;31;ancien_domaine;1886;Lignee;;oui;Rattache a l'id 31
+178;Bonfiglioli Consulting (ancien domaine);bcsoa.it;1973;49;ancien_domaine;1973;Lignee;;oui;Rattache a l'id 49
+179;Porsche Consulting (ancien domaine);porsche-consulting.de;1994;126;ancien_domaine;1994;Lignee;;oui;Rattache a l'id 126
+180;3i Infotech (ancien domaine (ICICI Infotech));icici-infotech.com;1993;2;ancien_domaine;1993;Lignee;;oui;Rattache a l'id 2
+181;msg group (ancien domaine (msg systeme));msg-systeme.com;1980;116;ancien_domaine;1980;Lignee;;oui;Rattache a l'id 116

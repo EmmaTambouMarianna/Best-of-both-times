@@ -1,0 +1,42 @@
+﻿id;nom;annee;url_pivot;verdict;Description;pivot_exclu
+102;ICF International;2010;https://www.icf.com/products.html;exclure;Erreur 404;1
+107;Interbrand;2010;https://www.interbrand.com/client_list.aspx?industryid=1071&langid=1000;exclure;Erreur 404;1
+111;McKinsey & Company;2020;https://www.mckinsey.com/industries/advanced-electronics/how-we-help-clients;inclure;Page valide;0
+111;McKinsey & Company;2025;https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage;exclure;Rapport/Communiqué/blog;1
+120;Observatory International;2025;https://www.observatoryinternational.com/our-insights/in-housing-a-possible-solution-not-an-objective/;exclure;Rapport/Communiqué/blog;1
+124;Oracle Consulting;2010;https://www.oracle.com/us/products/index.html;inclure;Page valide;0
+130;Protiviti;2020;https://www.protiviti.com/US-en;inclure;Page valide;0
+143;Roland Berger;2020;https://www.rolandberger.com/en/Expertise/Industries/Financial-Services/;inclure;Page valide;0
+144;Rothschild & Co.;2015;https://www.rothschildandco.com/fr-fr/services/page-flux-rss.html;exclure;Page conduit à un téléchargement ;1
+15;Advention Business Partners;2025;https://www.adventionbp.com/our-history;exclure;Erreur 404;1
+150;Sopra Steria Group;2025;https://www.soprasteria.com/home;inclure;Page valide;0
+153;Tata Consultancy Services;2020;https://www.tcs.com/banking-financial-services;inclure;Page valide;0
+154;Tech Mahindra;2020;https://www.techmahindra.com/en-in/banking-financial-services-and-insurance/;inclure;Page valide;0
+157;The Bridgespan Group;2010;https://www.bridgespan.org/About/Default.aspx?id=1016;exclure;Erreur 404;1
+168;Vistage;2005;https://www.vistage.com/decorating.htm;inclure;Page valide;0
+171;Wood Mackenzie;2025;https://www.woodmac.com/products/consulting/;inclure;Page valide;0
+26;Aon;2005;https://www.aon.com/industries/default.jsp;exclure;Erreur 404;1
+31;Arthur D. Little;2005;https://www.adlittle.com/industries/financial;exclure;Erreur 404;1
+39;BCG (Boston Consulting Group);2020;https://www.bcg.com/industries/health-care-payers-providers/default.aspx;exclure;Erreur 404;1
+39;BCG (Boston Consulting Group);2025;https://www.bcg.com/industries/energy/renewables-low-carbon-solutions;inclure;Page valide;0
+42;BCI Global;2020;https://www.bcgsearch.com/bcg_candidate_offers.php?oid=bcg_attorney_search_comprehensive_attorney_practice_area_guide;exclure;Rapport/Communiqué/blog;1
+47;BMC Software;2005;https://www.bmc.com/products/;exclure;Aucun contenu;1
+54;Brunswick Group;2025;https://www.brunswickgroup.com/terms-of-service/;exclure;Page de conditions de services ;1
+56;Business for Social Responsibility;2010;https://www.bsr.org/consulting/industry/financial-services.cfm;exclure;Erreur 404;1
+59;Capgemini;2015;https://www.capgemini.com/home;exclure;Erreur 404;1
+60;Capita;2020;https://www.capita.com/industries/financial-services;exclure;Erreur 404;1
+63;Civica;2020;https://www.civica.com/en-gb/product-search/;exclure;Erreur 404;1
+65;Cognizant;2005;https://www.cognizant.com/aboutus/fourthg.htm;exclure;Erreur 404;1
+65;Cognizant;2025;https://www.cognizant.com/de/de/industries/information-services-digital-solutions;exclure;Page en allemand;1
+71;Deloitte;2015;https://www.deloitte.com/us/en/industries/financial-services.html?icid=top_financial-services;inclure;Page valide;0
+71;Deloitte;2020;https://www.deloitte.com/us/en/industries/financial-services.html?icid=top_financial-services;inclure;Page valide;0
+86;Gartner;2020;https://www.gartner.com/en/financial-services;inclure;Page valide;0
+86;Gartner;2025;https://www.gartner.com/en/financial-services;inclure;Page valide;0
+87;Genesis;2015;https://www.genesis-analytics.com/sector-focus/financial-services.html;exclure;Erreur 404;1
+87;Genesis;2020;https://www.genesis-analytics.com/;inclure;Page valide;0
+89;GLG;2025;https://glginsights.com/overview/;inclure;Page valide;0
+90;Grant Thornton;2015;https://www.grantthornton.com/industries/financial-services.aspx;inclure;Page valide;0
+90;Grant Thornton;2025;https://www.grantthornton.com/industries/services;inclure;Page valide;0
+93;HCLTech;2005;https://www.hcltech.com/overview/default.asp;exclure;Erreur 404;1
+93;HCLTech;2025;https://www.hcltech.com/;inclure;Page valide;0
+97;Horváth;2015;https://www.horvath-partners.com/de/kompetenz/funktionale-kompetenz/operations-einkauf/operational-excellence-fuer-service-industries/;exclure;Erreur 404;1

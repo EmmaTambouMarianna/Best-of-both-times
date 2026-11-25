@@ -1,0 +1,529 @@
+﻿id,nom,annee,url_pivot,n_candidates,n_collectees,n_hors_annee,menus_utilises,n_mots_pivot,n_mots_sous_pages,statut
+1,10EQS,2010,https://www.10eqs.com/step3,0,0,0,oui,325,0,ok
+1,10EQS,2015,https://www.10eqs.com/solutions,4,4,0,non,325,1759,ok
+1,10EQS,2020,https://www.10eqs.com/solutions/,6,6,0,non,95,1664,ok
+1,10EQS,2025,https://www.10eqs.com/our-solutions/,6,6,0,non,81,10277,ok
+10,AccountAbility,2015,https://www.accountability.org/services/index.html,5,0,4,non,434,0,echec reseau (a relancer)
+10,AccountAbility,2020,https://www.accountability.org/our-services/advisory-services/,0,0,0,oui,43,0,ok
+10,AccountAbility,2025,https://www.accountability.org/advisory,8,7,0,non,206,2519,echec reseau (a relancer)
+100,Huron,2005,https://www.huronconsultinggroup.com/solutions.asp?id=15,0,0,0,oui,171,0,ok
+100,Huron,2010,https://www.huronconsultinggroup.com/services.aspx,0,0,0,oui,5,0,ok
+100,Huron,2015,https://www.huronconsultinggroup.com/Expertise,50,10,0,non,5,64,ok
+100,Huron,2020,https://www.huronconsultinggroup.com/expertise,7,5,0,non,861,2688,echec reseau (a relancer)
+100,Huron,2025,https://www.huronconsultinggroup.com/expertise,9,9,0,non,707,4755,ok
+102,ICF International,2005,https://www.icf.com/services.html,0,0,0,oui,174,0,ok
+102,ICF International,2010,https://www.icf.com/products.html,0,0,0,oui,167,0,ok
+102,ICF International,2020,https://www.icf.com/technology,15,9,0,non,375,4369,echec reseau (a relancer)
+102,ICF International,2025,https://www.icf.com/work,20,9,0,non,183,4946,echec reseau (a relancer)
+103,IDEO,2015,https://www.ideo.com/work/#expertise,126,10,0,non,2234,5358,ok
+103,IDEO,2025,https://www.ideo.com/offers#products,3,2,0,non,1165,2390,echec reseau (a relancer)
+104,Information Services Group,2015,https://isg-one.com/web/services/,14,10,0,non,113,2355,ok
+104,Information Services Group,2020,https://isg-one.com/solutions,6,6,0,non,118,5041,ok
+104,Information Services Group,2025,https://isg-one.com/advisory/global-capability-center,7,6,0,non,2352,5403,echec reseau (a relancer)
+105,Infosys,2005,https://www.infosys.com/services/default.asp,31,10,0,non,13,116,ok
+105,Infosys,2010,https://www.infosys.com/offerings/,68,9,0,non,11,79,echec reseau (a relancer)
+105,Infosys,2015,http://www.infosys.com/services/,0,0,0,oui,10,0,ok
+105,Infosys,2020,https://www.infosys.com/services.html,45,10,0,non,666,7638,ok
+105,Infosys,2025,https://www.infosys.com/services.html,44,9,0,non,433,5514,echec reseau (a relancer)
+106,Ingenics,2015,https://www.ingenics.com/en/key-services/,3,0,3,non,367,0,ok
+106,Ingenics,2020,https://www.ingenics.com/de/ingenics-services/,0,0,0,oui,744,0,ok
+107,Interbrand,2010,https://www.interbrand.com/client_list.aspx?industryid=1071&langid=1000,0,0,0,oui,9,0,ok
+107,Interbrand,2015,https://www.interbrand.com/en/services/,0,0,0,oui,199,0,ok
+107,Interbrand,2020,https://www.interbrand.com/our-expertise/attract-capital,0,0,0,oui,167,0,ok
+107,Interbrand,2025,https://interbrand.com/services/,10,9,1,non,502,5653,ok
+108,"Inverto, a BCG company",2020,https://www.inverto.com/expertise/,21,8,1,non,1356,14092,echec reseau (a relancer)
+109,M2P Consulting,2005,https://www.m2p.net/Services/Consulting.html,0,0,0,oui,137,0,ok
+109,M2P Consulting,2015,http://m2p.net/capabilities/,0,0,0,oui,192,0,ok
+109,M2P Consulting,2025,https://www.m2p.net/services/,14,10,0,non,217,4355,ok
+11,Accuracy,2015,https://www.accuracy.com/client-service/solutions_38.html,0,0,0,oui,838,0,ok
+11,Accuracy,2020,https://www.accuracy.com/about-us/what-we-do,0,0,0,oui,172,0,ok
+110,Mace,2010,https://www.macegroup.com/services,3,3,0,non,245,899,ok
+110,Mace,2015,https://www.macegroup.com/services,5,4,0,non,430,3429,echec reseau (a relancer)
+110,Mace,2020,https://www.macegroup.com/sectors-and-services,15,9,1,non,172,4124,ok
+110,Mace,2025,https://www.macegroup.com/what-we-do/,0,0,0,oui,284,0,ok
+111,McKinsey & Company,2005,https://www.mckinsey.com/clientservice/,25,10,0,non,222,2984,ok
+111,McKinsey & Company,2010,https://www.mckinsey.com/clientservice/,27,9,0,non,179,4989,echec reseau (a relancer)
+111,McKinsey & Company,2015,https://www.mckinsey.com/about_us/what_we_do,4,4,0,non,10,28,ok
+111,McKinsey & Company,2020,https://www.mckinsey.com/industries/advanced-electronics/how-we-help-clients,5,4,1,non,60,249,ok
+111,McKinsey & Company,2025,https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage,0,0,0,oui,7712,0,ok
+112,Marsh (formerly Mercer),2025,https://www.marsh.com/de/services.html,30,9,0,non,156,10586,echec reseau (a relancer)
+114,Miebach Consulting,2010,https://www.miebach.com/view.php?id=2fb2d26a2ebfd0190ac1ca37d3a76dd8&lang=en,0,0,0,oui,284,0,ok
+114,Miebach Consulting,2015,https://www.miebach.com/us/solutions/,7,7,0,non,347,2520,ok
+114,Miebach Consulting,2020,https://www.miebach.com/en/services/,3,3,0,non,854,9455,ok
+115,Mott MacDonald,2010,https://www.mottmac.com/skillsandservices/,23,9,0,non,577,5663,echec reseau (a relancer)
+115,Mott MacDonald,2015,http://www.mottmac.com/health/capacity-development-and-child-services,0,0,0,oui,585,0,ok
+115,Mott MacDonald,2025,https://www.mottmac.com/en/markets-and-services/,62,10,0,non,774,17821,ok
+116,msg group,2025,https://www.msg.group/de/loesungen/operations/communications-infrastructures/solutions,2,2,0,non,2084,4602,ok
+117,NERA Economic Consulting,2000,https://www.nera.com/practice/practf.html,0,0,0,oui,20,0,ok
+117,NERA Economic Consulting,2010,https://www.nera.com/PracticeArea.asp?PA_ID=204,0,0,0,oui,458,0,ok
+117,NERA Economic Consulting,2015,https://www.nera.com/practice-areas.html,261,9,0,non,1262,9412,echec reseau (a relancer)
+117,NERA Economic Consulting,2020,https://www.nera.com/practice-areas.html,257,9,1,non,1278,12586,ok
+117,NERA Economic Consulting,2025,https://www.nera.com/capabilities.html,24,9,0,non,184,8254,echec reseau (a relancer)
+118,North Highland,2000,https://www.northhighland.com/services/index.html,20,9,0,non,5,2171,ok
+118,North Highland,2005,https://www.northhighland.com/services/index.html,0,0,0,oui,20,0,ok
+118,North Highland,2010,https://www.northhighland.com/What-We-Do/,7,6,0,non,244,4100,echec reseau (a relancer)
+118,North Highland,2015,https://www.northhighland.com/solutions,9,9,0,oui,732,4860,ok
+118,North Highland,2020,https://www.northhighland.com/services,6,6,0,non,398,3228,ok
+118,North Highland,2025,https://northhighland.com/transformation-services,4,0,0,non,346,0,echec reseau (a relancer)
+119,NTT Data,2015,https://www.nttdata.com/global/en/services/index.html,12,10,0,non,481,2856,ok
+119,NTT Data,2025,https://www.nttdata.com/global/en/services,15,9,0,non,151,9874,echec reseau (a relancer)
+120,Observatory International,2020,https://www.observatoryinternational.com/services/resource-optimisation/,0,0,0,oui,698,0,ok
+120,Observatory International,2025,https://www.observatoryinternational.com/our-insights/in-housing-a-possible-solution-not-an-objective/,0,0,0,oui,432,0,ok
+121,OC&C Strategy Consultants,2005,http://www.occstrategy.com/areas_of_expertise,7,7,0,non,192,2807,ok
+121,OC&C Strategy Consultants,2015,https://www.occstrategy.com/expertise,16,10,0,non,1,29,ok
+122,Ogilvy Consulting,2010,https://www.ogilvy.com/Capabilities.aspx,31,10,0,non,5,64,ok
+122,Ogilvy Consulting,2015,https://www.ogilvy.com/Capabilities.aspx,32,10,0,non,5,61,ok
+123,Oliver Wyman,2015,https://www.oliverwyman.com/what-we-do.html,23,10,0,non,161,21211,ok
+123,Oliver Wyman,2020,https://www.oliverwyman.com/our-expertise.html,32,10,0,non,392,5172,ok
+123,Oliver Wyman,2025,https://www.oliverwyman.com/our-expertise/hubs/behind-the-breakthrough.html,0,0,0,oui,210,0,ok
+124,Oracle Consulting,2005,https://www.oracle.com/solutions/index.html,8,8,0,non,387,3090,ok
+124,Oracle Consulting,2010,https://www.oracle.com/us/products/index.html,109,10,0,non,1798,19036,ok
+124,Oracle Consulting,2015,https://www.oracle.com/solutions/index.html#menu-solutions,1,1,0,oui,703,435,ok
+124,Oracle Consulting,2025,https://www.oracle.com/consulting/artificial-intelligence/,0,0,0,oui,306,0,ok
+125,P3,2020,https://www.p3-group.com/expertisen/,11,10,0,non,292,4000,ok
+125,P3,2025,https://www.p3-group.com/p3-experte/financial-service-consulting/,0,0,0,oui,1472,0,ok
+127,PwC,2005,http://www.pwc.com/us/eng/main/home/index.html,0,0,0,oui,421,0,ok
+127,PwC,2015,https://www.pwc.com/gx/en/global-business-services/index.jhtml,0,0,0,oui,628,0,ok
+127,PwC,2020,https://www.pwc.com/us/en/services.html,53,10,0,non,357,8344,ok
+128,Procure4,2020,https://www.procure4.com/about-us/what-we-do,0,0,0,oui,11,0,ok
+128,Procure4,2025,https://www.procure4.com/our-services/,4,4,0,non,621,472,ok
+129,Prophet,2005,https://prophet.com/services/,15,10,0,non,212,2330,ok
+129,Prophet,2015,https://prophet.com/solutions/growth,0,0,0,oui,662,0,ok
+129,Prophet,2020,https://prophet.com/work/solutions/,14,10,0,non,353,3771,ok
+129,Prophet,2025,https://prophet.com/services/,5,5,0,non,324,2477,ok
+13,Adam Smith International,2010,https://adamsmithinternational.com/content/services-we-provide,0,0,0,oui,139,0,ok
+13,Adam Smith International,2015,https://adamsmithinternational.com/our-services/,11,10,0,non,66,2323,ok
+13,Adam Smith International,2020,https://adamsmithinternational.com/who-we-are/#services,1,1,0,oui,790,1066,ok
+130,Protiviti,2005,https://www.protiviti.com/portal/site/pro-us/?epi_menuItemID=e179b478752832747a2ff891a7cebfa0&epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0,1,1,0,oui,194,650,ok
+130,Protiviti,2010,https://www.protiviti.com/en-US/Solutions/LRIS/Pages/default.aspx,0,0,0,oui,5,0,ok
+130,Protiviti,2020,https://www.protiviti.com/US-en,137,10,0,non,959,10868,ok
+130,Protiviti,2025,https://www.protiviti.com/de-de/managed-solutions,0,0,0,oui,734,0,ok
+131,Proxima,2015,https://proximagroup.com/us/how-we-solve-it#share-and-apply-expertise,0,0,0,oui,2026,0,ok
+131,Proxima,2020,https://www.proximagroup.com/our-services/,18,10,0,non,200,3156,ok
+131,Proxima,2025,https://proximagroup.com/services/,31,8,0,non,206,3836,echec reseau (a relancer)
+132,Publicis Sapient,2010,https://sapient.com/governmentservices,0,0,0,oui,1,0,ok
+132,Publicis Sapient,2015,https://sapient.com/global-markets,0,0,0,oui,179,0,ok
+132,Publicis Sapient,2020,https://www.publicissapient.com/services,6,6,0,oui,406,3010,ok
+133,Inizio Ignite,2025,https://inizio.com/capabilities/,5,5,0,non,480,5164,ok
+134,Q5,2015,https://www.q5partners.com/expertise,0,0,0,oui,1110,0,ok
+134,Q5,2025,https://www.q5partners.com/what-we-do/,8,7,1,non,318,11681,ok
+135,QinetiQ Group,2010,https://www.qinetiq.com/home/capabilities.html,113,0,3,non,2697,0,ok
+135,QinetiQ Group,2015,https://www.qinetiq.com/Pages/capabilities.aspx,0,0,0,oui,6,0,ok
+135,QinetiQ Group,2020,https://www.qinetiq.com/Expertise,10,9,0,non,548,3945,echec reseau (a relancer)
+136,Rambøll Management Consulting,2010,https://www.ramboll.com/services.aspx,0,0,0,oui,4,0,ok
+136,Rambøll Management Consulting,2015,https://www.ramboll.com/services,99,10,0,non,5,61,ok
+136,Rambøll Management Consulting,2020,https://www.ramboll.com/services-and-sectors,159,9,0,non,2156,19142,echec reseau (a relancer)
+137,Reply,2005,https://www.reply.com/service_providers/,1,1,0,oui,359,35,ok
+137,Reply,2020,https://www.reply.com/en/3d-printing,0,0,0,oui,5,0,ok
+138,RGP,2020,https://rgp.com/capabilities/,0,0,0,oui,333,0,ok
+138,RGP,2025,https://rgp.com/solutions/,0,0,0,oui,724,0,ok
+139,Ricardo,2010,https://www.ricardo.com/en-gb/Services/,11,10,0,non,3,47,ok
+139,Ricardo,2015,https://www.ricardo.com/en-GB/What-we-do/,6,5,0,non,5,34,echec reseau (a relancer)
+139,Ricardo,2020,https://www.ricardo.com/services,10,10,0,non,8,92,ok
+14,Advancy,2015,https://www.advancy.com/expertise.html,0,0,0,oui,44,0,ok
+14,Advancy,2020,https://www.advancy.com/expertise/,17,7,2,non,146,3747,echec reseau (a relancer)
+14,Advancy,2025,https://www.advancy.com/expertise-2/,1,0,1,oui,125,0,ok
+140,Right Management,2005,https://www.right.com/global/esolutio/,1,1,0,oui,144,269,ok
+140,Right Management,2010,https://www.right.com/capabilities/capabilities.aspx,0,0,0,oui,16,0,ok
+140,Right Management,2015,https://www.right.com/wps/wcm/connect/right-us-en/home/capabilities-solutions/,0,0,0,oui,859,0,ok
+140,Right Management,2020,https://www.right.com/wcm/connect/right-us-en/home/leadership-solutions/,4,4,0,non,543,1219,ok
+141,Rödl & Partner,2010,https://www.roedl.com/services/services_overview.html,0,0,0,oui,307,0,ok
+141,Rödl & Partner,2015,https://www.roedl.com/services/services_overview.html,0,0,0,oui,545,0,ok
+141,Rödl & Partner,2020,http://www.roedl.com/en-gb/de/services/Pages/default.aspx,0,0,0,oui,15,0,ok
+141,Rödl & Partner,2025,https://www.roedl.com/en-gb/de/services/Pages/default.aspx,0,0,0,oui,41,0,ok
+142,EFESO Management Consultants,2020,https://www.efeso.com/men-efeso-group/men-expertise,0,0,0,oui,597,0,ok
+142,EFESO Management Consultants,2025,https://www.efeso.com/expertise,17,10,0,oui,556,13098,ok
+143,Roland Berger,2005,https://www.rolandberger.com/expertise/en/html/8-expertise.html,0,0,0,oui,69,0,ok
+143,Roland Berger,2010,https://www.rolandberger.com/expertise/index.html,8,6,1,non,233,3529,echec reseau (a relancer)
+143,Roland Berger,2015,https://www.rolandberger.com/expertise/,6,5,0,non,200,1426,echec reseau (a relancer)
+143,Roland Berger,2020,https://www.rolandberger.com/en/Expertise/Industries/Financial-Services/,0,0,0,oui,1335,0,ok
+144,Rothschild & Co.,2015,https://www.rothschildandco.com/fr-fr/services/page-flux-rss.html,0,0,0,oui,146,0,ok
+144,Rothschild & Co.,2020,https://www.rothschildandco.com/en/what-we-do/,3,3,0,non,300,1074,ok
+144,Rothschild & Co.,2025,https://www.rothschildandco.com/en/asset-management/our-expertise/,0,0,0,oui,817,0,ok
+145,Savills,2005,https://www.savills.com/services/hub.asp,0,0,0,oui,169,0,ok
+145,Savills,2010,https://www.savills.com/services/,6,6,0,non,479,2459,ok
+145,Savills,2015,https://www.savills.com/services/,8,6,0,non,644,3357,echec reseau (a relancer)
+145,Savills,2020,https://www.savills.com/find-a-service/,0,0,0,oui,632,0,ok
+146,Science Applications International Corporation,2000,https://www.saic.com/business/solutions/financial/,3,3,0,non,111,630,ok
+146,Science Applications International Corporation,2005,https://www.saic.com/business/,6,6,0,non,163,1903,ok
+146,Science Applications International Corporation,2010,https://www.saic.com/business/,2,2,0,non,365,1074,ok
+146,Science Applications International Corporation,2015,https://www.saic.com/services-solutions/technology-solutions/,6,5,0,non,4,23,echec reseau (a relancer)
+146,Science Applications International Corporation,2025,https://www.saic.com/what-we-do/engineering-services,2,2,0,oui,48,98,ok
+148,Simon-Kucher,2015,https://www.simon-kucher.com/en-us/content/capabilities,0,0,0,oui,298,0,ok
+148,Simon-Kucher,2020,https://www.simon-kucher.com/en/capabilities,1,1,0,oui,883,976,ok
+149,Slalom Consulting,2015,https://www.slalom.com/services,8,7,0,non,52,2044,echec reseau (a relancer)
+149,Slalom Consulting,2020,https://www.slalom.com/what-we-do,3,3,0,non,354,610,ok
+15,Advention Business Partners,2025,https://www.adventionbp.com/our-history,0,0,0,oui,285,0,ok
+150,Sopra Steria Group,2020,https://www.soprasteria.com/services/technology-services,4,4,0,non,2,21,ok
+150,Sopra Steria Group,2025,https://www.soprasteria.com/home,0,0,0,oui,5,0,ok
+151,STAUFEN.,2015,https://www.staufen.ag/company/expertise/,29,0,0,non,253,0,echec reseau (a relancer)
+153,Tata Consultancy Services,2000,https://www.tcs.com/services/services_index.htm,0,0,0,oui,148,0,ok
+153,Tata Consultancy Services,2005,http://www.tcs.com/rfid-solutions/index.aspx,8,3,5,non,4,26,ok
+153,Tata Consultancy Services,2010,https://www.tcs.com/offerings,0,0,0,oui,4,0,ok
+153,Tata Consultancy Services,2015,https://www.tcs.com/offerings/Pages/default.aspx,0,0,0,oui,4,0,ok
+153,Tata Consultancy Services,2020,https://www.tcs.com/banking-financial-services,0,0,0,oui,373,0,ok
+153,Tata Consultancy Services,2025,https://www.tcs.com/what-we-do.html#services,45,9,0,non,954,7228,echec reseau (a relancer)
+154,Tech Mahindra,2020,https://www.techmahindra.com/en-in/banking-financial-services-and-insurance/,9,0,9,non,921,0,ok
+154,Tech Mahindra,2025,https://www.techmahindra.com/our-capabilities/,0,0,0,oui,83,0,ok
+156,The Barton Partnership,2010,https://www.thebartonpartnership.com/employers-services.php,0,0,0,oui,350,0,ok
+156,The Barton Partnership,2015,http://www.thebartonpartnership.com/services/,0,0,0,oui,411,0,ok
+156,The Barton Partnership,2025,https://www.thebartonpartnership.com/services,0,0,0,oui,108,0,ok
+157,The Bridgespan Group,2010,https://www.bridgespan.org/About/Default.aspx?id=1016,0,0,0,oui,13,0,ok
+157,The Bridgespan Group,2020,https://www.bridgespan.org/Services,14,10,0,oui,3,89,ok
+157,The Bridgespan Group,2025,https://www.bridgespan.org/our-services,4,3,0,non,101,1272,echec reseau (a relancer)
+158,The Carbon Trust,2015,https://www.carbontrust.com/client-services/,15,10,0,oui,5,61,ok
+158,The Carbon Trust,2020,https://www.carbontrust.com/what-we-do,32,9,0,non,385,4816,echec reseau (a relancer)
+158,The Carbon Trust,2025,https://www.carbontrust.com/what-we-do,10,10,0,non,694,6558,ok
+159,The Cohen Group,2005,https://www.cohengroup.net/expertise.html,0,0,0,oui,106,0,ok
+159,The Cohen Group,2015,https://www.cohengroup.net/what-we-do,2,2,0,non,570,1544,ok
+159,The Cohen Group,2020,https://www.cohengroup.net/what-we-do,2,2,0,non,592,1552,ok
+159,The Cohen Group,2025,https://www.cohengroup.net/what-we-do,21,4,6,non,330,1736,ok
+16,AECOM,2005,https://aecom.com/MarketsAndServices/36/74/index.jsp,0,0,0,oui,221,0,ok
+16,AECOM,2010,https://aecom.com/What+We+Do,10,10,0,non,553,10615,ok
+16,AECOM,2015,https://aecom.com/What+We+Do,14,10,0,non,741,11845,ok
+16,AECOM,2020,https://aecom.com/services/?utm_source=website&utm_medium=mega_menu&utm_campaign=new_design,37,10,0,non,309,4453,ok
+16,AECOM,2025,https://aecom.com/services,53,10,0,non,684,8024,ok
+160,The Hackett Group,2010,https://www.thehackettgroup.com/expertise/,12,10,0,non,518,7872,ok
+160,The Hackett Group,2015,https://www.thehackettgroup.com/expertise/,12,10,0,non,727,6610,ok
+160,The Hackett Group,2020,https://www.thehackettgroup.com/application-managed-services/,0,0,0,oui,633,0,ok
+161,TNG Technology Consulting,2025,https://www.tngtech.com/leistungen/branchen/#business-services,0,0,0,oui,574,0,ok
+162,Trinity Consultants,2000,https://www.trinityconsultants.com/services.htm,0,0,0,oui,132,0,ok
+162,Trinity Consultants,2005,https://www.trinityconsultants.com/Services.asp?C=3&S=16,0,0,0,oui,14,0,ok
+162,Trinity Consultants,2010,https://www.trinityconsultants.com/Services,0,0,0,oui,16,0,ok
+162,Trinity Consultants,2015,https://www.trinityconsultants.com/Services,0,0,0,oui,16,0,ok
+162,Trinity Consultants,2020,https://www.trinityconsultants.com/services,102,7,2,non,1487,22031,ok
+164,TriVista,2015,https://www.trivista.com/services,0,0,0,oui,186,0,ok
+164,TriVista,2020,https://trivista.com/services/,11,10,0,non,329,3419,ok
+164,TriVista,2025,https://trivista.com/services/,5,5,0,non,297,4717,ok
+165,Turner & Townsend,2005,https://www.turnerandtownsend.com/specialistcompanies-propertyservices.asp,0,0,0,oui,386,0,ok
+165,Turner & Townsend,2010,https://www.turnerandtownsend.com/Frontpage.aspx?m=30,0,0,0,oui,5,0,ok
+165,Turner & Townsend,2015,https://www.turnerandtownsend.com/expertise.html,0,0,0,oui,5,0,ok
+165,Turner & Townsend,2020,https://www.turnerandtownsend.com/en/expertise/,27,10,0,non,339,6195,ok
+165,Turner & Townsend,2025,https://www.turnerandtownsend.com/solutions/,9,7,0,non,403,3639,echec reseau (a relancer)
+167,Vanto Group,2025,https://www.vantogroup.com/areas-of-expertise/,0,0,0,oui,628,0,ok
+168,Vistage,2000,https://www.vistage.com/services.htm,0,0,0,oui,544,0,ok
+168,Vistage,2005,https://www.vistage.com/decorating.htm,0,0,0,oui,598,0,ok
+168,Vistage,2015,http://www.vistage.com/what-we-do/,3,3,0,non,1115,2929,ok
+169,Wavestone,2025,https://www.wavestone.com/en/what-we-do/,28,10,0,non,3055,7501,ok
+17,AFRY,2020,https://afry.com/en/our-offerings,0,0,0,oui,356,0,ok
+170,Wipro,2000,https://www.wipro.com/wiproservicefr.html,0,0,0,oui,15,0,ok
+170,Wipro,2005,https://www.wipro.com/actions/rfx.php3,0,0,0,oui,139,0,ok
+170,Wipro,2010,https://www.wipro.com/services/index.htm,10,8,0,non,156,2751,echec reseau (a relancer)
+170,Wipro,2020,https://www.wipro.com/cloud/solutions/,0,0,0,oui,1334,0,ok
+170,Wipro,2025,https://www.wipro.com/business-process/,25,10,0,non,386,3080,ok
+171,Wood Mackenzie,2020,https://www.woodmac.com/our-expertise/,8,8,0,non,426,5495,ok
+171,Wood Mackenzie,2025,https://www.woodmac.com/products/consulting/,4,3,0,non,668,3569,echec reseau (a relancer)
+172,YAMADA Consulting Group,2025,https://www.yamada-cg.co.jp/global_service/,0,0,0,oui,405,0,ok
+173,ZS,2010,https://www.zs.com/index.php?pid=2,0,0,0,oui,104,0,ok
+173,ZS,2015,https://www.zs.com/index.php?pid=2,0,0,0,oui,104,0,ok
+173,ZS,2020,https://www.zs.com/solutions,17,10,0,non,7,77,ok
+173,ZS,2025,https://www.zs.com/digital-transformation-value,3,3,0,non,384,598,ok
+19,AlixPartners,2020,https://www.alixpartners.com/services/,6,5,0,non,213,6614,echec reseau (a relancer)
+19,AlixPartners,2025,https://www.alixpartners.com/what-we-do/,42,10,0,non,454,7195,ok
+20,Alpha Financial Markets Consulting,2010,https://www.alphafmc.com/what_we_do/what_we_do.html,0,0,0,oui,349,0,ok
+20,Alpha Financial Markets Consulting,2015,http://alphafmc.com/about/#fmc-capabilities,22,9,0,non,1066,3635,echec reseau (a relancer)
+21,AlphaSights,2015,https://www.alphasights.com/what-we-do/overview,0,0,0,oui,1567,0,ok
+21,AlphaSights,2025,https://www.alphasights.com/services/,0,0,0,oui,662,0,ok
+22,Alvarez & Marsal,2010,https://www.alvarezandmarsal.com/en/global_services/index.html,15,7,1,non,259,2847,ok
+22,Alvarez & Marsal,2015,https://www.alvarezandmarsal.com/services,0,0,0,oui,565,0,ok
+22,Alvarez & Marsal,2020,https://www.alvarezandmarsal.com/expertise,7,7,0,non,820,2250,ok
+22,Alvarez & Marsal,2025,https://www.alvarezandmarsal.com/expertise,13,8,0,non,409,6325,echec reseau (a relancer)
+23,Amaris Consulting,2015,https://www.amaris.com/en/solutions/qloudwise-cloud-services.aspx,0,0,0,oui,282,0,ok
+24,Analysis Group,2000,https://www.analysisgroup.com/practice.htm,0,0,0,oui,12,0,ok
+24,Analysis Group,2015,https://www.analysisgroup.com/practices/,87,8,2,non,4,43,ok
+24,Analysis Group,2020,https://www.analysisgroup.com/practices/,109,9,0,non,462,3266,echec reseau (a relancer)
+24,Analysis Group,2025,https://www.analysisgroup.com/practices/,126,10,0,non,469,2794,ok
+25,Analysys Mason,2010,https://www.analysysmason.com/Consulting/Services/,33,8,0,non,6,81,echec reseau (a relancer)
+25,Analysys Mason,2015,https://www.analysysmason.com/Services/,18,10,0,non,6,382,ok
+25,Analysys Mason,2020,https://www.analysysmason.com/services/consulting/telecoms-digital-services/,0,0,0,oui,453,0,ok
+25,Analysys Mason,2025,https://www.analysysmason.com/what-we-do/,5,5,0,non,513,5013,ok
+26,Aon,2005,https://www.aon.com/industries/default.jsp,0,0,0,oui,316,0,ok
+26,Aon,2025,https://www.aon.com/en/capabilities,12,9,0,oui,391,10903,echec reseau (a relancer)
+27,APCO,2005,http://www.apcoworldwide.com/content/services/index.cfm,0,0,0,oui,1569,0,ok
+27,APCO,2010,https://apcoworldwide.com/content/services/index.aspx,30,10,0,non,4,67,ok
+27,APCO,2025,https://apcoworldwide.com/expertise/,0,0,0,oui,354,0,ok
+29,ARCADIS,2010,https://www.arcadis.com/Services.aspx,0,0,0,oui,1,0,ok
+29,ARCADIS,2015,https://www.arcadis.com/Services.aspx,0,0,0,oui,3,0,ok
+29,ARCADIS,2025,https://www.arcadis.com/en/expertise,44,9,0,non,271,4506,echec reseau (a relancer)
+3,4flow,2025,https://www.4flow.com/managed-supply-chain-services,0,0,0,oui,923,0,ok
+31,Arthur D. Little,2005,https://www.adlittle.com/industries/financial,0,0,0,oui,635,0,ok
+31,Arthur D. Little,2015,https://www.adlittle.com/services.html,0,0,0,oui,772,0,ok
+31,Arthur D. Little,2020,https://www.adlittle.com/en/about-us/what-we-do,0,0,0,oui,349,0,ok
+32,Arup,2005,http://www.arup.com/skillsandservices.cfm,0,0,0,oui,120,0,ok
+32,Arup,2010,https://www.arup.com/Services.aspx,6,6,0,non,15,98,ok
+32,Arup,2015,https://www.arup.com/Services.aspx,6,6,0,non,15,98,ok
+32,Arup,2020,https://www.arup.com/expertise,96,2,1,non,1631,3014,echec reseau (a relancer)
+32,Arup,2025,https://www.arup.com/services/,5,5,0,non,311,2971,ok
+34,ATOS,2015,https://atos.net/en-us/home/we-do/ito-services.html,5,5,0,non,786,4412,ok
+34,ATOS,2020,https://atos.net/en/solutions,18,9,0,non,458,6088,echec reseau (a relancer)
+34,ATOS,2025,https://atos.net/en/services,7,7,0,non,292,4376,ok
+35,Avasant,2010,https://avasant.com/solutions.php,0,0,0,oui,239,0,ok
+35,Avasant,2015,http://avasant.com/IT-transformation/shared-service-advisory.html,0,0,0,oui,451,0,ok
+35,Avasant,2020,https://avasant.com/what-we-do/digital,0,0,0,oui,718,0,ok
+36,BAE Systems,2005,https://www.baesystems.com/capabilities/index.htm,6,6,0,non,109,1446,ok
+36,BAE Systems,2010,https://www.baesystems.com/index.htm#colophon,0,0,0,oui,173,0,ok
+36,BAE Systems,2020,https://www.baesystems.com/en/what-we-do,7,7,0,non,180,2139,ok
+36,BAE Systems,2025,https://www.baesystems.com/en/what-we-do,0,0,0,oui,6,0,ok
+37,Bain & Company,2000,https://www.bain.com/capabilities/searchresults.asp?doctype=5,0,0,0,oui,3247,0,ok
+37,Bain & Company,2005,https://www.bain.com/bainweb/consulting_expertise/consulting_expertise_overview.asp,0,0,0,oui,168,0,ok
+37,Bain & Company,2010,https://www.bain.com/bainweb/About/what_we_do.asp,0,0,0,oui,181,0,ok
+37,Bain & Company,2015,https://www.bain.com/consulting-services/index.aspx,15,10,0,non,6,87,ok
+37,Bain & Company,2020,https://www.bain.com/consulting-services/,11,10,0,non,389,7229,ok
+37,Bain & Company,2025,https://www.bain.com/consulting-services/,15,10,0,non,402,7982,ok
+38,Baringa,2010,http://www.baringa.com/our_capabilities/,4,3,0,non,289,952,echec reseau (a relancer)
+38,Baringa,2015,https://www.baringa.com/capabilities/,37,10,0,oui,1,30,ok
+38,Baringa,2020,https://www.baringa.com/en/capabilities/,11,10,0,oui,9,72,ok
+38,Baringa,2025,https://www.baringa.com/en/capabilities/,33,9,0,non,790,9481,echec reseau (a relancer)
+39,BCG (Boston Consulting Group),2010,https://www.bcg.com/expertise_impact/default.aspx,73,10,0,non,5,48,ok
+39,BCG (Boston Consulting Group),2015,https://www.bcg.com/expertise/client-enablement/default.aspx,5,4,0,oui,90,1383,echec reseau (a relancer)
+39,BCG (Boston Consulting Group),2020,https://www.bcg.com/industries/health-care-payers-providers/default.aspx,11,9,0,non,585,5808,ok
+39,BCG (Boston Consulting Group),2025,https://www.bcg.com/industries/energy/renewables-low-carbon-solutions,0,0,0,oui,1081,0,ok
+4,a-connect,2005,https://a-connect.com/pages_en/u3.5/sub_3.htm,0,0,0,oui,100,0,ok
+4,a-connect,2015,https://a-connect.com/services.html,0,0,0,oui,128,0,ok
+4,a-connect,2020,https://a-connect.com/expertise/,9,8,0,non,1081,3013,echec reseau (a relancer)
+4,a-connect,2025,https://a-connect.com/capability/strategy-implementation/,0,0,0,oui,609,0,ok
+42,BCI Global,2020,https://www.bcgsearch.com/bcg_candidate_offers.php?oid=bcg_attorney_search_comprehensive_attorney_practice_area_guide,0,0,0,oui,55,0,ok
+42,BCI Global,2025,https://www.bcgsearch.com/firms_practiceareas_list.php,0,0,0,oui,945,0,ok
+43,BDO,2005,https://www.bdo.com/services/index.asp,8,8,0,non,271,2230,ok
+43,BDO,2010,https://www.bdo.com/services/,22,10,0,non,573,8794,ok
+43,BDO,2015,https://www.bdo.com/services,33,9,0,non,2,69,echec reseau (a relancer)
+43,BDO,2020,https://www.bdo.com/Services,39,10,0,non,8,89,ok
+43,BDO,2025,https://www.bdo.com/services,51,9,0,oui,1178,7159,echec reseau (a relancer)
+44,BearingPoint,2020,https://www.bearingpoint.com/en/our-expertise/,4,4,0,non,138,222,ok
+44,BearingPoint,2025,https://www.bearingpoint.com/en/services/,9,9,0,non,43,4627,ok
+45,BIP,2025,https://www.bip-group.com/services-overview,0,0,0,oui,800,0,ok
+46,Black & Veatch,2005,https://www.bv.com/services/index.asp,13,9,0,non,122,2466,echec reseau (a relancer)
+46,Black & Veatch,2010,https://www.bv.com/Services/Default.aspx,16,10,0,non,5,64,ok
+46,Black & Veatch,2015,https://www.bv.com/Capabilities,0,0,0,oui,10,0,ok
+46,Black & Veatch,2020,https://www.bv.com/services/asset-management,0,0,0,oui,1447,0,ok
+46,Black & Veatch,2025,https://www.bv.com/what-we-do,0,0,0,oui,450,0,ok
+47,BMC Software,2000,https://www.bmc.com/profserv/index.html,5,4,0,non,208,977,echec reseau (a relancer)
+47,BMC Software,2005,https://www.bmc.com/products/,24,9,0,non,662,5243,ok
+47,BMC Software,2010,http://www.bmc.com/solutions,17,9,0,non,331,4158,echec reseau (a relancer)
+47,BMC Software,2015,https://www.bmc.com/it-services/it-consulting-services.html,0,0,0,oui,415,0,ok
+47,BMC Software,2020,https://www.bmc.com/it-solutions/bmc-helix-itsm.html,0,0,0,oui,1103,0,ok
+47,BMC Software,2025,https://www.bmc.com/it-solutions/hr-service-management.html,0,0,0,oui,808,0,ok
+48,BMT,2015,http://www.bmt.org/services/,10,10,0,non,799,6919,ok
+48,BMT,2020,https://www.bmt.org/services/,0,0,0,oui,32,0,ok
+48,BMT,2025,https://www.bmt.org/services/environment-solutions/,7,5,2,non,1681,8526,ok
+49,Bonfiglioli Consulting,2025,https://www.bonfiglioliconsulting.com/it/settori/banche-servizi/,0,0,0,oui,308,0,ok
+50,Booz Allen Hamilton,2010,http://www.boozallen.com/consulting-services,11,9,0,non,412,8274,echec reseau (a relancer)
+50,Booz Allen Hamilton,2015,https://www.boozallen.com/consulting,9,9,0,non,1043,16895,ok
+50,Booz Allen Hamilton,2020,https://www.boozallen.com/expertise.html,7,6,0,non,2910,18210,echec reseau (a relancer)
+50,Booz Allen Hamilton,2025,https://www.boozallen.com/expertise.html,5,5,0,non,183,3583,ok
+51,Boston Strategies International,2015,http://bostonstrategies.com/solutions/,7,7,0,non,1389,11708,ok
+51,Boston Strategies International,2025,https://bostonstrategies.com/services/,0,0,0,oui,136,0,ok
+52,Bourton Group,2000,https://www.bourtongroup.com/serviceindex.html,0,0,0,oui,108,0,ok
+53,BRG,2015,https://www.thinkbrg.com/expertise.html,0,0,0,oui,414,0,ok
+53,BRG,2020,https://www.thinkbrg.com/expertise.html,0,0,0,oui,150,0,ok
+53,BRG,2025,https://www.thinkbrg.com/services/,25,9,0,non,414,4740,echec reseau (a relancer)
+54,Brunswick Group,2010,https://www.brunswickgroup.com/our-expertise/practice-disciplines.aspx,14,10,0,non,2,26,ok
+54,Brunswick Group,2015,https://www.brunswickgroup.com/expertise/,3,3,0,non,126,2799,ok
+54,Brunswick Group,2020,https://www.brunswickgroup.com/what-we-do/,5,4,0,non,357,1389,echec reseau (a relancer)
+54,Brunswick Group,2025,https://www.brunswickgroup.com/terms-of-service/,0,0,0,oui,2618,0,ok
+55,Burns & McDonnell,2015,https://www.burnsmcd.com/Services,310,10,0,non,1802,8904,ok
+55,Burns & McDonnell,2020,https://www.burnsmcd.com/services,17,9,0,non,60,578,echec reseau (a relancer)
+55,Burns & McDonnell,2025,https://www.burnsmcd.com/what-we-do,0,0,0,oui,628,0,ok
+56,Business for Social Responsibility,2005,https://www.bsr.org/AdvisoryServices/index.cfm,0,0,0,oui,289,0,ok
+56,Business for Social Responsibility,2010,https://www.bsr.org/consulting/industry/financial-services.cfm,0,0,0,oui,598,0,ok
+56,Business for Social Responsibility,2015,http://www.bsr.org/en/consulting,17,10,0,non,839,8616,ok
+56,Business for Social Responsibility,2020,https://www.bsr.org/en/expertise,6,6,0,non,667,20949,ok
+56,Business for Social Responsibility,2025,https://www.bsr.org/en/focus,5,4,0,non,66,10238,echec reseau (a relancer)
+57,"Cambridge Consultants, part of Capgemini Invent",2015,https://www.cambridgeconsultants.com/markets/digital-services,0,0,0,oui,705,0,ok
+57,"Cambridge Consultants, part of Capgemini Invent",2020,https://www.cambridgeconsultants.com/expertise,29,10,0,non,128,10105,ok
+58,Capco,2015,http://capco.com/services,4,4,0,non,322,2319,ok
+58,Capco,2020,https://www.capco.com/Solutions/Data-and-Technology-Solutions,5,5,0,non,705,1814,ok
+58,Capco,2025,https://www.capco.com/Services,3,2,0,non,220,765,echec reseau (a relancer)
+59,Capgemini,2000,https://www.capgemini.com/solutions/index.html,0,0,0,oui,163,0,ok
+59,Capgemini,2005,https://www.capgemini.com/services/,5,4,0,non,247,1423,ok
+59,Capgemini,2010,https://www.capgemini.com/services-and-solutions/,62,10,0,non,508,4987,ok
+59,Capgemini,2015,https://www.capgemini.com/home,0,0,0,oui,317,0,ok
+59,Capgemini,2020,https://www.capgemini.com/services/,3,3,0,oui,478,1875,ok
+59,Capgemini,2025,https://www.capgemini.com/services/,7,6,0,non,756,12103,echec reseau (a relancer)
+6,AArete,2010,https://www.aarete.com/inside/strategy.html,0,0,0,oui,250,0,ok
+6,AArete,2015,http://www.aarete.com/services/,17,10,0,non,189,3675,ok
+6,AArete,2020,https://www.aarete.com/our-solutions/,29,9,0,non,704,5160,echec reseau (a relancer)
+6,AArete,2025,https://www.aarete.com/our-solutions/,15,9,1,non,99,5252,ok
+60,Capita,2005,https://www.capita.com/customSolutions/customSol.asp,0,0,0,oui,202,0,ok
+60,Capita,2010,https://www.capita.com/Default.aspx?tabid=101,0,0,0,oui,9,0,ok
+60,Capita,2020,https://www.capita.com/industries/financial-services,3,3,0,non,356,2139,ok
+60,Capita,2025,https://www.capita.com/collections,0,0,0,oui,705,0,ok
+62,CGI,2005,https://www.cgi.com/web/en/library/solutions/p1.htm,0,0,0,oui,518,0,ok
+62,CGI,2010,https://www.cgi.com/en/services,0,0,0,oui,200,0,ok
+62,CGI,2015,https://www.cgi.com/en/solutions/our-solutions,0,0,0,oui,312,0,ok
+62,CGI,2020,https://www.cgi.com/en/it-outsourcing-services,5,4,0,non,887,1184,echec reseau (a relancer)
+62,CGI,2025,https://www.cgi.com/en/solution,3,3,0,non,625,2037,ok
+63,Civica,2020,https://www.civica.com/en-gb/product-search/,0,0,0,oui,52,0,ok
+63,Civica,2025,https://www.civica.com/en-us/capabilities/,4,4,0,non,341,1131,ok
+64,Clairfield,2005,https://www.clairfield.com/content/global/global_services_mergers.php,0,0,0,oui,144,0,ok
+64,Clairfield,2015,https://www.clairfield.com/services,6,6,0,non,240,1119,ok
+64,Clairfield,2020,http://www.clairfield.com/en/services/,6,5,1,oui,185,1275,ok
+64,Clairfield,2025,https://www.clairfield.com/transaction/?sector=business-services,14,9,0,non,1407,10491,echec reseau (a relancer)
+65,Cognizant,2005,https://www.cognizant.com/aboutus/fourthg.htm,0,0,0,oui,354,0,ok
+65,Cognizant,2010,https://www.cognizant.com/html/solutions/services/landing.asp,0,0,0,oui,194,0,ok
+65,Cognizant,2015,https://www.cognizant.com/services,0,0,0,oui,8,0,ok
+65,Cognizant,2020,https://www.cognizant.com/information-systems-technology-solutions,2,0,0,non,1743,0,ok
+65,Cognizant,2025,https://www.cognizant.com/de/de/industries/information-services-digital-solutions,0,0,0,oui,636,0,ok
+67,ConVista Consulting AG,2025,https://www.convista.com/beratungsfelder/sap-service/,4,3,1,non,877,1848,ok
+68,CRA International,2005,https://www.crai.com/expertise.asp,0,0,0,oui,285,0,ok
+68,CRA International,2010,https://www.crai.com/ConsultingExpertise/DefaultCustom.aspx,0,0,0,oui,5,0,ok
+68,CRA International,2015,https://www.crai.com/services,0,0,0,oui,14,0,ok
+69,Credera,2015,https://www.credera.com/management-consulting,0,0,0,oui,882,0,ok
+69,Credera,2020,https://www.credera.com/service-areas-overview,0,0,0,oui,387,0,ok
+70,CYLAD Consulting,2025,https://cylad.com/expertise/,0,0,0,oui,83,0,ok
+71,Deloitte,2000,https://www.deloitte.com/services/assurance.html,0,0,0,oui,144,0,ok
+71,Deloitte,2005,"https://www.deloitte.com/dtt/section_home/0,1041,sid%253D1001,00.html",0,0,0,oui,359,0,ok
+71,Deloitte,2010,https://www.deloitte.com/view/en_US/us/Services/index.htm,5,5,0,non,495,2589,ok
+71,Deloitte,2015,https://www.deloitte.com/us/en/industries/financial-services.html?icid=top_financial-services,4,3,0,non,423,1833,echec reseau (a relancer)
+71,Deloitte,2020,https://www.deloitte.com/us/en/industries/financial-services.html?icid=top_financial-services,0,0,0,oui,1244,0,ok
+72,Deloitte Digital,2015,https://www.deloittedigital.com/what-we-do,0,0,0,oui,164,0,ok
+72,Deloitte Digital,2020,https://www.deloittedigital.com/us/en/offerings.html,8,8,0,non,986,2351,ok
+73,Detecon,2010,https://www.detecon.com/en/services.html,15,7,2,non,161,6425,echec reseau (a relancer)
+73,Detecon,2015,https://www.detecon.com/de,13,8,0,non,197,1740,ok
+73,Detecon,2020,https://www.detecon.com/en/securing_the_future_through_digitization,0,0,0,oui,800,0,ok
+76,Efficio,2010,https://www.efficioconsulting.com/areas-of-expertise/,5,5,0,non,87,809,ok
+76,Efficio,2015,http://efficioconsulting.com/whatwedo,14,9,0,non,158,2175,echec reseau (a relancer)
+76,Efficio,2020,https://www.efficioconsulting.com/en-gb/services/Managed-Procurement-Service/,0,0,0,oui,947,0,ok
+77,Elixirr,2015,https://www.elixirr.com/capabilities,4,4,0,oui,24,16916,ok
+78,ERM,2005,https://www.erm.com/erm/main.nsf/pages/services,0,0,0,oui,3,0,ok
+78,ERM,2010,https://www.erm.com/Service/,5,5,0,non,7,43,ok
+78,ERM,2015,https://www.erm.com/en/service/,9,8,0,non,8,64,echec reseau (a relancer)
+78,ERM,2020,https://www.erm.com/service/,34,10,0,non,1226,12620,ok
+78,ERM,2025,https://www.erm.com/solutions/,22,9,0,non,410,7076,echec reseau (a relancer)
+79,Eurogroup Consulting,2010,https://www.eurogroupconsulting.com/business-segments/securities-services,0,0,0,oui,362,0,ok
+79,Eurogroup Consulting,2020,https://www.eurogroupconsulting.com/en/our-expertise/,26,10,0,non,826,9140,ok
+79,Eurogroup Consulting,2025,https://www.eurogroupconsulting.com/fr/nos-expertises/,23,10,0,non,907,12515,ok
+8,ABS Group of Companies,2005,https://www.abs-group.com/services.html,0,0,0,oui,251,0,ok
+8,ABS Group of Companies,2015,http://www.abs-group.com/technical-solutions.html,0,0,0,oui,292,0,ok
+8,ABS Group of Companies,2020,https://www.abs-group.com/What-We-Do/,4,3,0,non,499,1548,echec reseau (a relancer)
+8,ABS Group of Companies,2025,https://www.abs-group.com/Solutions/,5,5,0,non,385,3717,ok
+80,Everest Group,2005,https://www.everestgrp.com/our_services.html,0,0,0,oui,180,0,ok
+80,Everest Group,2010,https://www.everestgrp.com/WhatWeDo,0,0,0,oui,245,0,ok
+80,Everest Group,2015,http://www.everestgrp.com/services/,19,10,0,non,456,10120,ok
+80,Everest Group,2020,https://www.everestgrp.com/service-providers/,6,0,0,non,402,0,echec reseau (a relancer)
+80,Everest Group,2025,https://www.everestgrp.com/what-we-offer/,0,0,0,oui,1295,0,ok
+81,EY,2010,https://www.ey.com/US/en/Services,61,10,0,non,1119,10616,ok
+81,EY,2015,https://www.ey.com/US/en/Services,4,4,0,non,327,7031,ok
+81,EY,2025,https://www.ey.com/de_at/services/climate-change-sustainability-services,0,0,0,oui,1014,0,ok
+82,"frog, part of Capgemini Invent",2025,https://www.frog.co/services,15,8,0,non,936,5884,echec reseau (a relancer)
+83,Frost & Sullivan,2000,https://www.frost.com/conferences/VPN/,5,5,0,non,383,1114,ok
+83,Frost & Sullivan,2025,https://www.frost.com/growth-advisory/growth-pipeline/,0,0,0,oui,2456,0,ok
+84,FTI Consulting,2010,https://www.fticonsulting.com/en_us/practices/Pages/default.aspx,0,0,0,oui,1,0,ok
+84,FTI Consulting,2015,https://www.fticonsulting.com/services,5,5,0,non,140,1495,ok
+84,FTI Consulting,2020,https://www.fticonsulting.com/services,5,5,0,non,155,2074,ok
+84,FTI Consulting,2025,https://www.fticonsulting.com/services,80,9,0,non,423,5542,echec reseau (a relancer)
+85,Gallup,2010,https://www.gallup.com/se/126842/Services.aspx,0,0,0,oui,1127,0,ok
+85,Gallup,2015,https://www.gallup.com/topic/financial_services.aspx,0,0,0,oui,603,0,ok
+85,Gallup,2020,https://www.gallup.com/workplace/,14,7,0,non,517,4766,echec reseau (a relancer)
+86,Gartner,2010,https://www.gartner.com/technology/it_professionals.jsp,0,0,0,oui,427,0,ok
+86,Gartner,2015,https://www.gartner.com/technology/professional_services.jsp,0,0,0,oui,843,0,ok
+86,Gartner,2020,https://www.gartner.com/en/financial-services,2,2,0,non,437,597,ok
+86,Gartner,2025,https://www.gartner.com/en/financial-services,10,10,0,oui,648,4388,ok
+87,Genesis,2010,https://www.genesis-analytics.com/content.asp?cpid=1&cpcurid=1,0,0,0,oui,341,0,ok
+87,Genesis,2015,https://www.genesis-analytics.com/sector-focus/financial-services.html,0,0,0,oui,305,0,ok
+87,Genesis,2020,https://www.genesis-analytics.com/,0,0,0,oui,2223,0,ok
+87,Genesis,2025,https://www.genesis-analytics.com/what-we-do/behavioural-solutions,4,0,3,oui,1106,0,ok
+88,Genpact,2010,http://genpact.com/home/our-services/solutions-we-offer.aspx,65,10,0,non,5,45,ok
+88,Genpact,2015,https://www.genpact.com/home/solutions/aftermarket-services,0,0,0,oui,8,0,ok
+88,Genpact,2020,https://www.genpact.com/digital-transformation/business-technology-services,0,0,0,oui,968,0,ok
+88,Genpact,2025,https://www.genpact.com/services,14,10,0,oui,67,5375,ok
+89,GLG,2025,https://glginsights.com/overview/,0,0,0,oui,467,0,ok
+9,Accenture,2020,https://www.accenture.com/us-en/services/business-process-outsourcing-index,0,0,0,oui,787,0,ok
+90,Grant Thornton,2010,https://www.grantthornton.com/portal/site/gtcom/menuitem.b48f5c3c9ef452ff7be02c10353841ca/?vgnextoid=7acbcbbdad9c4010VgnVCM100000368314acRCRD&vgnextfmt=default,0,0,0,oui,174,0,ok
+90,Grant Thornton,2015,https://www.grantthornton.com/industries/financial-services.aspx,7,7,0,non,6,39,ok
+90,Grant Thornton,2020,https://www.grantthornton.com/services/advisory-services.aspx,7,7,0,non,2137,14989,ok
+90,Grant Thornton,2025,https://www.grantthornton.com/industries/services,0,0,0,oui,926,0,ok
+91,Grant Thornton Stax,2000,http://www.stax.com/services.html,0,0,0,oui,533,0,ok
+91,Grant Thornton Stax,2005,https://www.stax.com/capabilities_overview.html#subscription,0,0,0,oui,316,0,ok
+91,Grant Thornton Stax,2010,https://www.stax.com/service-offerings,0,0,0,oui,212,0,ok
+91,Grant Thornton Stax,2015,http://www.stax.com/services/,2,2,0,non,312,1754,ok
+91,Grant Thornton Stax,2020,https://www.stax.com/services,0,0,0,oui,36,0,ok
+91,Grant Thornton Stax,2025,https://www.stax.com/services,0,0,0,oui,77,0,ok
+92,Guidepoint,2020,https://www.guidepoint.com/services/,0,0,0,oui,1018,0,ok
+92,Guidepoint,2025,https://www.guidepoint.com/what-we-offer/,5,4,0,non,267,2533,ok
+93,HCLTech,2005,https://www.hcltech.com/overview/default.asp,20,0,0,non,413,0,ok
+93,HCLTech,2010,http://www.hcltech.com/custom-application/,14,9,0,non,1203,8626,ok
+93,HCLTech,2015,https://www.hcltech.com/business-process-outsourcing,18,10,0,non,1215,11994,ok
+93,HCLTech,2020,https://www.hcltech.com/dwp,1,1,0,oui,986,109,ok
+93,HCLTech,2025,https://www.hcltech.com/,0,0,0,oui,1263,0,ok
+94,Health Advances,2015,https://www.healthadvances.com/services/,0,0,0,oui,99,0,ok
+94,Health Advances,2025,https://www.healthadvances.com/capabilities,5,5,0,non,299,9269,ok
+97,Horváth,2015,https://www.horvath-partners.com/de/kompetenz/funktionale-kompetenz/operations-einkauf/operational-excellence-fuer-service-industries/,0,0,0,oui,331,0,ok
+97,Horváth,2020,https://www.horvath-partners.com/de/expertise/,26,9,0,non,294,3363,ok
+98,Houlihan Lokey,2015,https://www.hl.com/us/services.aspx,0,0,0,oui,40,0,ok
+98,Houlihan Lokey,2020,https://www.hl.com/services/,15,10,0,non,6,73,ok
+10,AccountAbility,2015,https://www.accountability.org/services/index.html,5,0,5,non,434,0,ok
+10,AccountAbility,2025,https://www.accountability.org/advisory,8,8,0,non,206,2864,ok
+100,Huron,2020,https://www.huronconsultinggroup.com/expertise,7,7,0,non,861,3881,ok
+102,ICF International,2020,https://www.icf.com/technology,15,8,0,non,375,3859,echec reseau (a relancer)
+102,ICF International,2025,https://www.icf.com/work,20,10,0,non,183,5503,ok
+103,IDEO,2025,https://www.ideo.com/offers#products,3,2,0,non,1165,2390,echec reseau (a relancer)
+104,Information Services Group,2025,https://isg-one.com/advisory/global-capability-center,7,6,0,non,2352,4333,echec reseau (a relancer)
+105,Infosys,2010,https://www.infosys.com/offerings/,68,10,0,non,11,89,ok
+105,Infosys,2025,https://www.infosys.com/services.html,44,8,0,non,433,5150,echec reseau (a relancer)
+108,"Inverto, a BCG company",2020,https://www.inverto.com/expertise/,21,9,1,non,1356,15770,ok
+110,Mace,2015,https://www.macegroup.com/services,5,5,0,non,430,3817,ok
+111,McKinsey & Company,2010,https://www.mckinsey.com/clientservice/,27,8,0,non,179,4907,echec reseau (a relancer)
+112,Marsh (formerly Mercer),2025,https://www.marsh.com/de/services.html,30,10,0,non,156,11762,ok
+115,Mott MacDonald,2010,https://www.mottmac.com/skillsandservices/,23,8,0,non,577,5116,echec reseau (a relancer)
+117,NERA Economic Consulting,2015,https://www.nera.com/practice-areas.html,261,10,0,non,1262,10284,ok
+117,NERA Economic Consulting,2025,https://www.nera.com/capabilities.html,24,9,0,non,184,8343,echec reseau (a relancer)
+118,North Highland,2010,https://www.northhighland.com/What-We-Do/,7,7,0,non,244,5257,ok
+118,North Highland,2025,https://northhighland.com/transformation-services,4,0,0,non,346,0,ok
+119,NTT Data,2025,https://www.nttdata.com/global/en/services,15,9,0,non,151,10055,echec reseau (a relancer)
+131,Proxima,2025,https://proximagroup.com/services/,31,8,0,non,206,3836,echec reseau (a relancer)
+135,QinetiQ Group,2020,https://www.qinetiq.com/Expertise,10,9,0,non,548,3897,echec reseau (a relancer)
+136,Rambøll Management Consulting,2020,https://www.ramboll.com/services-and-sectors,159,10,0,non,2156,21337,ok
+139,Ricardo,2015,https://www.ricardo.com/en-GB/What-we-do/,6,5,0,non,5,34,echec reseau (a relancer)
+14,Advancy,2020,https://www.advancy.com/expertise/,17,8,2,non,146,4222,ok
+143,Roland Berger,2010,https://www.rolandberger.com/expertise/index.html,8,7,1,non,233,3945,ok
+143,Roland Berger,2015,https://www.rolandberger.com/expertise/,6,6,0,non,200,1622,ok
+145,Savills,2015,https://www.savills.com/services/,8,8,0,non,644,4538,ok
+146,Science Applications International Corporation,2015,https://www.saic.com/services-solutions/technology-solutions/,6,6,0,non,4,28,ok
+149,Slalom Consulting,2015,https://www.slalom.com/services,8,7,0,non,52,2077,echec reseau (a relancer)
+151,STAUFEN.,2015,https://www.staufen.ag/company/expertise/,29,0,0,non,253,0,ok
+153,Tata Consultancy Services,2025,https://www.tcs.com/what-we-do.html#services,45,9,0,non,954,7428,echec reseau (a relancer)
+157,The Bridgespan Group,2025,https://www.bridgespan.org/our-services,4,4,0,non,101,1419,ok
+158,The Carbon Trust,2020,https://www.carbontrust.com/what-we-do,32,10,0,non,385,5401,ok
+165,Turner & Townsend,2025,https://www.turnerandtownsend.com/solutions/,9,8,0,non,403,4426,echec reseau (a relancer)
+170,Wipro,2010,https://www.wipro.com/services/index.htm,10,10,0,non,156,3616,ok
+171,Wood Mackenzie,2025,https://www.woodmac.com/products/consulting/,4,3,0,non,668,3856,echec reseau (a relancer)
+19,AlixPartners,2020,https://www.alixpartners.com/services/,6,6,0,non,213,6810,ok
+20,Alpha Financial Markets Consulting,2015,http://alphafmc.com/about/#fmc-capabilities,22,10,0,non,1066,4055,ok
+22,Alvarez & Marsal,2025,https://www.alvarezandmarsal.com/expertise,13,8,0,non,409,6325,echec reseau (a relancer)
+24,Analysis Group,2020,https://www.analysisgroup.com/practices/,109,10,0,non,462,3600,ok
+25,Analysys Mason,2010,https://www.analysysmason.com/Consulting/Services/,33,8,0,non,6,78,echec reseau (a relancer)
+26,Aon,2025,https://www.aon.com/en/capabilities,12,10,0,oui,391,11714,ok
+29,ARCADIS,2025,https://www.arcadis.com/en/expertise,44,10,0,non,271,4921,ok
+32,Arup,2020,https://www.arup.com/expertise,96,3,1,non,1631,4435,ok
+34,ATOS,2020,https://atos.net/en/solutions,18,10,0,non,458,6515,ok
+38,Baringa,2010,http://www.baringa.com/our_capabilities/,4,4,0,non,289,1295,ok
+38,Baringa,2025,https://www.baringa.com/en/capabilities/,33,10,0,non,790,10196,ok
+39,BCG (Boston Consulting Group),2015,https://www.bcg.com/expertise/client-enablement/default.aspx,5,5,0,oui,90,1590,ok
+4,a-connect,2020,https://a-connect.com/expertise/,9,9,0,non,1081,3249,ok
+43,BDO,2015,https://www.bdo.com/services,33,10,0,non,2,76,ok
+43,BDO,2025,https://www.bdo.com/services,51,10,0,oui,1178,8045,ok
+46,Black & Veatch,2005,https://www.bv.com/services/index.asp,13,10,0,non,122,2755,ok
+47,BMC Software,2000,https://www.bmc.com/profserv/index.html,5,5,0,non,208,1402,ok
+47,BMC Software,2010,http://www.bmc.com/solutions,17,10,0,non,331,4571,ok
+50,Booz Allen Hamilton,2010,http://www.boozallen.com/consulting-services,11,10,0,non,412,8986,ok
+50,Booz Allen Hamilton,2020,https://www.boozallen.com/expertise.html,7,7,0,non,2910,21476,ok
+53,BRG,2025,https://www.thinkbrg.com/services/,25,10,0,non,414,5444,ok
+54,Brunswick Group,2020,https://www.brunswickgroup.com/what-we-do/,5,5,0,non,357,1827,ok
+55,Burns & McDonnell,2020,https://www.burnsmcd.com/services,17,10,0,non,60,641,ok
+56,Business for Social Responsibility,2025,https://www.bsr.org/en/focus,5,5,0,non,66,13520,ok
+58,Capco,2025,https://www.capco.com/Services,3,3,0,non,220,1142,ok
+59,Capgemini,2025,https://www.capgemini.com/services/,7,7,0,non,756,13387,ok
+6,AArete,2020,https://www.aarete.com/our-solutions/,29,9,0,non,704,5160,echec reseau (a relancer)
+62,CGI,2020,https://www.cgi.com/en/it-outsourcing-services,5,5,0,non,887,1608,ok
+64,Clairfield,2025,https://www.clairfield.com/transaction/?sector=business-services,14,10,0,non,1407,11790,ok
+71,Deloitte,2015,https://www.deloitte.com/us/en/industries/financial-services.html?icid=top_financial-services,4,3,0,non,423,2198,echec reseau (a relancer)
+73,Detecon,2010,https://www.detecon.com/en/services.html,15,7,3,non,161,6425,ok
+76,Efficio,2015,http://efficioconsulting.com/whatwedo,14,9,0,non,158,2082,echec reseau (a relancer)
+78,ERM,2015,https://www.erm.com/en/service/,9,9,0,non,8,71,ok
+78,ERM,2025,https://www.erm.com/solutions/,22,10,0,non,410,7803,ok
+8,ABS Group of Companies,2020,https://www.abs-group.com/What-We-Do/,4,3,0,non,499,1548,echec reseau (a relancer)
+80,Everest Group,2020,https://www.everestgrp.com/service-providers/,6,0,0,non,402,0,ok
+82,"frog, part of Capgemini Invent",2025,https://www.frog.co/services,15,10,0,non,936,7034,ok
+84,FTI Consulting,2025,https://www.fticonsulting.com/services,80,9,0,non,423,5569,echec reseau (a relancer)
+85,Gallup,2020,https://www.gallup.com/workplace/,14,7,0,non,517,4889,echec reseau (a relancer)

@@ -1,0 +1,36 @@
+﻿categorie,etiquette,regex_en,regex_fr,occurrences,pages,firmes
+long_explicite,long term,long[- ]term|longer[- ]term,long terme|plus long terme,219.0,167.0,47.0
+long_explicite,future,\bfutures?\b(?![- ]proof),\bavenir\b|\bfutur(e|s|es)?\b,1068.0,415.0,75.0
+long_explicite,years ahead,years ahead|coming years|years to come|next \d+ years|(next|coming) decades?,prochaines ann[ée]es|ann[ée]es [àa] venir|prochaines d[ée]cennies,30.0,26.0,14.0
+long_explicite,date 2030+,(?<!PAS )\b20[3-6]\d\b,(?<!PAS )\b20[3-6]\d\b,47.0,30.0,15.0
+court_explicite,short term,short[- ]term|near[- ]term,court terme,29.0,25.0,13.0
+court_explicite,immediate,\bimmediate(ly)?\b,\bimm[ée]diat\w*,56.0,42.0,21.0
+court_explicite,urgent,\burgen(t|cy)\w*,\burgen\w*,24.0,20.0,12.0
+court_explicite,within days,\bwithin (hours|days|weeks|months)\b,\ben quelques (heures|jours|semaines)\b,0.0,0.0,0.0
+non_temporel,day-to-day,\bday[- ]to[- ]day\b,\bau quotidien\b,27.0,24.0,13.0
+court_explicite,quick wins,quick[- ]wins?,gains rapides,13.0,13.0,6.0
+court_explicite,"vitesse (rapid, quickly, fast-paced)",\brapid(ly)?\b|\bquickly\b|\bfast[- ]paced\b|\bfaster\b|\bfast[- ]track\w*,\brapide(s|ment)?\b,614.0,317.0,72.0
+long_implicite,sustainability,sustainab\w*,d[ée]veloppement durable|durabilit[ée],1375.0,423.0,72.0
+long_implicite,net zero / decarbonisation,net[- ]zero|decarboni[sz]\w*|carbon[- ]neutral\w*|low[- ]carbon,carboneutr\w*|d[ée]carbon\w*|bas carbone,275.0,59.0,21.0
+long_implicite,climate,\bclimate\b,\bclimat(ique)?s?\b,448.0,157.0,39.0
+court_implicite,crisis management,crisis (management|response|communications?),gestion de crise,34.0,20.0,8.0
+court_implicite,turnaround,\bturn[- ]?arounds?\b,\bredressement\b,89.0,60.0,12.0
+court_implicite,cash / liquidity,cash management|\bliquidity\b|working capital,tr[ée]sorerie|liquidit[ée]s|fonds de roulement,102.0,54.0,19.0
+court_implicite,interim management,interim (management|managers?|executives?|leadership|CFO|CEO),management de transition|gestion int[ée]rimaire,43.0,31.0,6.0
+ambigu,tomorrow,\btomorrow\b,\bdemain\b,123.0,89.0,25.0
+ambigu,ESG,\bESG\b,\bESG\b,150.0,63.0,28.0
+ambigu,energy transition / circular economy,energy transition|circular economy,transition [ée]nerg\w*|[ée]conomie circulaire,32.0,21.0,9.0
+ambigu,succession planning,succession planning,planification de la rel[èe]ve,16.0,16.0,4.0
+non_temporel,restructuring,\brestructur\w*,\brestructur\w*,236.0,146.0,28.0
+non_temporel,cost reduction,cost (reduction|cutting|savings?|containment),r[ée]duction des co[uû]ts,268.0,89.0,24.0
+non_temporel,insolvency / distress,insolvenc\w*|bankruptc\w*|financial distress,insolvabilit[ée]|faillite,118.0,34.0,6.0
+a_trancher,decades (souvent retrospectif),(?<!next )(?<!coming )\bdecades?\b,d[ée]cennies?,133.0,105.0,36.0
+a_trancher,today / now (rhetorique),\btoday\b|\bnow\b,aujourd.hui|maintenant,907.0,465.0,78.0
+a_trancher,quick / fast (navigation possible),\bquick\b(?![- ]wins?)|\bfast\b(?![- ](paced|track)),$^,217.0,170.0,48.0
+non_temporel,agile,\bagil\w*,\bagil\w*,368.0,172.0,47.0
+a_trancher,future-proof,future[- ]proof\w*,p[ée]renn\w*,29.0,22.0,10.0
+a_trancher,next generation,next generation|\bnext[- ]gen\b,nouvelle g[ée]n[ée]ration,131.0,72.0,28.0
+a_trancher,beyond,\bbeyond\b,\bau[- ]del[àa]\b,197.0,147.0,47.0
+a_trancher,quarter (souvent finance),\bquarter(ly)?\b,\btrimestr\w*,56.0,38.0,20.0
+a_trancher,transformation,\btransform\w*,\btransform\w*,2131.0,515.0,78.0
+a_trancher,litigation (retrospectif),\blitigation\b,\blitiges?\b|contentieux,474.0,112.0,20.0

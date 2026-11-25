@@ -1,0 +1,246 @@
+﻿no,id_passage,nom,annee,horizon_dico,coeur,terme_menace,per
+1,623,BDO,2006,non precise,0,risk,2000-2009
+2,2107,Turner & Townsend,2006,non precise,0,risks,2000-2009
+3,2249,BRG,2014,court,0,compliance,2010-2014
+4,2868,AECOM,2015,mixte,0,resilient,2015-2019
+5,1954,Roland Berger,2020,mixte,0,crisis,2020-2025
+6,961,Business for Social Responsibility,2013,long,0,risks,2010-2014
+7,416,APCO,2025,mixte,0,crisis,2020-2025
+8,1194,Cognizant,2019,court,0,risk,2015-2019
+9,3206,BDO,2010,court,0,risk,2010-2014
+10,4228,Alvarez & Marsal,2025,court,0,risks,2020-2025
+11,1639,Infosys,2009,mixte,0,risks,2000-2009
+12,4554,Booz Allen Hamilton,2020,non precise,0,threats,2020-2025
+13,2329,PwC,2008,long,0,compliance,2000-2009
+14,2016,The Barton Partnership,2017,court,0,risk,2015-2019
+15,613,BCG (Boston Consulting Group),2008,long,0,risk,2000-2009
+16,2041,The Hackett Group,2016,mixte,1,volatile,2015-2019
+17,4082,Proxima,2025,mixte,1,uncertainty,2020-2025
+18,951,Burns & McDonnell,2015,long,0,compliance,2015-2019
+19,3,10EQS,2014,court,0,compliance,2010-2014
+20,3518,Capco,2015,long,0,disruptive,2015-2019
+21,4020,McKinsey & Company,2010,court,0,crisis,2010-2014
+22,4103,Roland Berger,2010,long,0,risk,2010-2014
+23,49,Accenture,2003,court,0,risks,2000-2009
+24,3118,ATOS,2025,court,0,compliance,2020-2025
+25,1421,Grant Thornton,2018,mixte,0,risk,2015-2019
+26,1217,Deloitte,2013,court,0,risk,2010-2014
+27,579,Avasant,2011,court,0,risk,2010-2014
+28,671,Black & Veatch,2017,court,0,risk,2015-2019
+29,3037,TriVista,2025,court,0,risk,2020-2025
+30,2040,The Hackett Group,2015,mixte,1,volatile,2015-2019
+31,390,APCO,2006,court,1,volatility,2000-2009
+32,246,Alvarez & Marsal,2013,mixte,1,uncertainty,2010-2014
+33,2001,Tata Consultancy Services,2019,non precise,0,compliance,2015-2019
+34,1796,PwC,2009,long,0,compliance,2000-2009
+35,3598,Deloitte,2010,mixte,0,risk,2010-2014
+36,2687,Oracle Consulting,2005,court,0,compliance,2000-2009
+37,2829,Science Applications International Corporation,2005,long,0,risks,2000-2009
+38,4357,Aon,2025,long,0,risk,2020-2025
+39,2161,Wipro,2020,long,1,uncertain,2020-2025
+40,3555,AArete,2025,non precise,0,disruptive,2020-2025
+41,1789,PwC,2004,non precise,0,compliance,2000-2009
+42,1869,Protiviti,2018,court,0,compliance,2015-2019
+43,1638,Infosys,2008,mixte,0,risks,2000-2009
+44,3582,Deloitte,2010,non precise,0,risk,2010-2014
+45,196,Accuracy,2017,non precise,0,dispute,2015-2019
+46,2535,Mott MacDonald,2025,mixte,0,resilience,2020-2025
+47,3535,Capgemini,2005,court,0,risk,2000-2009
+48,1008,"Cambridge Consultants, part of Capgemini Invent",2002,court,0,risk,2000-2009
+49,4516,BMC Software,2010,mixte,0,risk,2010-2014
+50,1207,Deloitte,2004,long,0,risk,2000-2009
+51,3347,Booz Allen Hamilton,2015,non precise,0,threaten,2015-2019
+52,1333,EY,2017,mixte,0,compliance,2015-2019
+53,2732,Prophet,2005,court,0,risk,2000-2009
+54,2807,Q5,2025,long,1,uncertainty,2020-2025
+55,4544,Booz Allen Hamilton,2010,court,0,risk,2010-2014
+56,614,BCG (Boston Consulting Group),2009,long,0,risk,2000-2009
+57,1376,Gartner,2007,long,0,compliance,2000-2009
+58,214,AECOM,2015,long,1,risks,2015-2019
+59,1123,Capita,2023,long,0,risk,2020-2025
+60,1284,Eurogroup Consulting,2022,court,0,crisis,2020-2025
+61,1771,Oracle Consulting,2011,mixte,0,risk,2010-2014
+62,1290,Everest Group,2019,court,0,risk,2015-2019
+63,3392,Boston Strategies International,2015,court,1,volatile,2015-2019
+64,4692,Capgemini,2025,court,0,resilience,2020-2025
+65,447,Arthur D. Little,2015,long,0,risks,2015-2019
+66,1108,Capgemini,2011,long,0,risk,2010-2014
+67,713,BMC Software,2020,court,0,risk,2020-2025
+68,1298,EY,2007,non precise,0,risk,2000-2009
+69,2839,The Carbon Trust,2025,long,1,resilience,2020-2025
+70,4191,Alpha Financial Markets Consulting,2015,non precise,0,threats,2015-2019
+71,423,Arthur D. Little,2008,mixte,0,risk,2000-2009
+72,3513,"Cambridge Consultants, part of Capgemini Invent",2020,court,0,risk,2020-2025
+73,789,BMT,2024,mixte,0,risk,2020-2025
+74,1675,Mott MacDonald,2014,court,0,vulnerable,2010-2014
+75,994,Business for Social Responsibility,2021,long,0,resilient,2020-2025
+76,2291,Capgemini,2018,mixte,0,disruption,2015-2019
+77,2787,Protiviti,2020,mixte,0,risk,2020-2025
+78,2091,TriVista,2011,court,0,risk,2010-2014
+79,4486,BDO,2025,court,0,fraud,2020-2025
+80,2054,Trinity Consultants,2003,non precise,0,compliance,2000-2009
+81,3722,EY,2010,court,0,risk,2010-2014
+82,2224,Black & Veatch,2022,non precise,0,resilient,2020-2025
+83,2398,Huron,2025,non precise,0,risk,2020-2025
+84,4476,BDO,2025,non precise,0,risk,2020-2025
+85,2020,The Carbon Trust,2021,long,0,risks,2020-2025
+86,445,Arthur D. Little,2014,long,0,risk,2010-2014
+87,1678,Mott MacDonald,2021,long,0,risk,2020-2025
+88,501,Arup,2022,long,0,resilience,2020-2025
+89,188,Accuracy,2013,non precise,0,dispute,2010-2014
+90,2926,The Hackett Group,2010,non precise,1,volatility,2010-2014
+91,3665,ABS Group of Companies,2025,non precise,0,compliance,2020-2025
+92,1107,Capgemini,2005,mixte,0,compliance,2000-2009
+93,2337,Tata Consultancy Services,2006,court,0,risk,2000-2009
+94,3202,BDO,2010,non precise,0,risks,2010-2014
+95,893,Boston Strategies International,2013,mixte,0,risk,2010-2014
+96,2056,Trinity Consultants,2016,non precise,0,risk,2015-2019
+97,1237,Deloitte,2019,mixte,0,compliance,2015-2019
+98,1380,Gartner,2012,mixte,1,volatility,2010-2014
+99,3360,Booz Allen Hamilton,2015,mixte,0,risks,2015-2019
+100,4024,McKinsey & Company,2010,court,0,risk,2010-2014
+101,1896,Proxima,2015,non precise,0,risk,2015-2019
+102,2481,McKinsey & Company,2005,mixte,0,exposure,2000-2009
+103,379,APCO,2004,non precise,0,crisis,2000-2009
+104,2036,The Hackett Group,2011,mixte,1,volatile,2010-2014
+105,2023,The Carbon Trust,2022,long,0,crisis,2020-2025
+106,1392,Gartner,2019,court,0,disruptive,2015-2019
+107,1168,Cognizant,2017,non precise,0,risk,2015-2019
+108,1709,NERA Economic Consulting,2010,non precise,0,exposure,2010-2014
+109,1705,NERA Economic Consulting,2008,long,0,risk,2000-2009
+110,4072,North Highland,2010,non precise,1,uncertain,2010-2014
+111,514,ATOS,2014,non precise,0,risk,2010-2014
+112,132,Accuracy,2014,non precise,0,disputes,2010-2014
+113,1335,EY,2018,mixte,0,compliance,2015-2019
+114,3188,BDO,2005,court,0,risk,2000-2009
+115,47,ABS Group of Companies,2006,court,0,risk,2000-2009
+116,597,Avasant,2017,non precise,0,disruptive,2015-2019
+117,2087,Trinity Consultants,2018,court,0,compliance,2015-2019
+118,4608,BRG,2025,non precise,0,disputes,2020-2025
+119,3859,Guidepoint,2025,non precise,0,compliance,2020-2025
+120,232,Alvarez & Marsal,2004,non precise,0,crisis,2000-2009
+121,2692,Oracle Consulting,2010,court,0,compliance,2010-2014
+122,2032,The Cohen Group,2002,court,0,dispute,2000-2009
+123,1321,EY,2012,mixte,0,risks,2010-2014
+124,701,BMC Software,2012,mixte,0,compliance,2010-2014
+125,1876,Protiviti,2019,long,0,risk,2015-2019
+126,3487,Business for Social Responsibility,2020,long,0,risk,2020-2025
+127,3757,EY,2015,long,0,compliance,2015-2019
+128,2191,AccountAbility,2014,mixte,0,risk,2010-2014
+129,3923,Huron,2020,mixte,0,resilient,2020-2025
+130,413,APCO,2022,mixte,0,risks,2020-2025
+131,620,BDO,2004,court,0,risk,2000-2009
+132,96,Accenture,2017,long,0,disruption,2015-2019
+133,1808,PwC,2016,long,0,compliance,2015-2019
+134,700,BMC Software,2011,court,0,risk,2010-2014
+135,1777,Oracle Consulting,2013,non precise,0,risks,2010-2014
+136,1906,Q5,2018,non precise,0,threatened,2015-2019
+137,2479,McKinsey & Company,2005,court,0,risk,2000-2009
+138,2247,Booz Allen Hamilton,2022,mixte,0,disrupt,2020-2025
+139,3017,Trinity Consultants,2020,mixte,0,compliance,2020-2025
+140,3729,EY,2010,non precise,0,risk,2010-2014
+141,4108,Roland Berger,2010,non precise,1,turbulente,2010-2014
+142,3442,Business for Social Responsibility,2015,long,0,risk,2015-2019
+143,3817,FTI Consulting,2015,non precise,0,risk,2015-2019
+144,1772,Oracle Consulting,2012,court,0,risk,2010-2014
+145,1758,Oliver Wyman,2015,long,0,risk,2015-2019
+146,2316,North Highland,2021,mixte,0,resilience,2020-2025
+147,2698,Oracle Consulting,2010,mixte,0,risk,2010-2014
+148,1336,EY,2019,mixte,0,disrupted,2015-2019
+149,1658,Mott MacDonald,2007,mixte,0,risk,2000-2009
+150,1181,Cognizant,2018,court,0,risk,2015-2019
+151,2878,AECOM,2015,court,0,risk,2015-2019
+152,4343,Aon,2025,mixte,0,risk,2020-2025
+153,1703,NERA Economic Consulting,2003,non precise,0,risk,2000-2009
+154,1484,Guidepoint,2018,mixte,0,risks,2015-2019
+155,2520,Mott MacDonald,2025,non precise,0,risk,2020-2025
+156,361,Aon,2006,non precise,1,risk,2000-2009
+157,2859,AECOM,2010,long,0,threat,2010-2014
+158,3238,BearingPoint,2025,court,1,unpredictability,2020-2025
+159,3169,Bain & Company,2025,court,0,risk,2020-2025
+160,3074,Alvarez & Marsal,2010,long,0,compliance,2010-2014
+161,1385,Gartner,2016,court,0,risk,2015-2019
+162,3197,BDO,2010,non precise,1,turbulent,2010-2014
+163,1399,Gartner,2021,mixte,0,risk,2020-2025
+164,3845,Gartner,2025,non precise,0,disruption,2020-2025
+165,621,BDO,2005,court,0,risk,2000-2009
+166,2202,APCO,2003,non precise,0,crisis,2000-2009
+167,4740,Deloitte,2015,non precise,0,risks,2015-2019
+168,2273,Capco,2014,non precise,0,risk,2010-2014
+169,2051,Trinity Consultants,2001,non precise,0,compliance,2000-2009
+170,3618,ABS Group of Companies,2025,long,0,risk,2020-2025
+171,52,ABS Group of Companies,2007,non precise,0,risk,2000-2009
+172,1662,Mott MacDonald,2009,long,0,risk,2000-2009
+173,388,APCO,2005,non precise,0,crisis,2000-2009
+174,1704,NERA Economic Consulting,2007,long,0,risk,2000-2009
+175,4009,Mace,2015,non precise,0,risk,2015-2019
+176,2035,The Hackett Group,2010,mixte,0,compliance,2010-2014
+177,1558,Huron,2018,court,0,compliance,2015-2019
+178,4099,QinetiQ Group,2020,non precise,0,risk,2020-2025
+179,1306,EY,2009,long,0,compliance,2000-2009
+180,3707,EY,2010,long,0,risk,2010-2014
+181,3130,ATOS,2025,non precise,0,resilient,2020-2025
+182,1344,EY,2021,mixte,0,disrupts,2020-2025
+183,1324,EY,2013,long,0,compliance,2010-2014
+184,581,Avasant,2014,court,0,risk,2010-2014
+185,2652,Oliver Wyman,2015,long,0,risk,2015-2019
+186,601,Avasant,2019,court,0,disruption,2015-2019
+187,654,BearingPoint,2008,court,0,risk,2000-2009
+188,1115,Capgemini,2021,court,0,disruption,2020-2025
+189,3409,Boston Strategies International,2015,non precise,0,crisis,2015-2019
+190,1551,HCLTech,2025,non precise,0,risk,2020-2025
+191,474,Arthur D. Little,2023,court,0,threats,2020-2025
+192,1933,Right Management,2018,long,0,risk,2015-2019
+193,2996,Trinity Consultants,2020,long,0,compliance,2020-2025
+194,3698,Everest Group,2015,non precise,0,compliance,2015-2019
+195,1292,Everest Group,2022,long,1,uncertainties,2020-2025
+196,2324,Oliver Wyman,2021,long,0,risk,2020-2025
+197,4469,BDO,2025,non precise,0,disruptors,2020-2025
+198,884,Boston Strategies International,2009,court,1,volatility,2000-2009
+199,276,Alvarez & Marsal,2017,long,0,disputes,2015-2019
+200,1850,Protiviti,2004,non precise,0,risk,2000-2009
+201,1656,Mott MacDonald,2006,long,0,risk,2000-2009
+202,4325,Aon,2025,court,0,resilience,2020-2025
+203,454,Arthur D. Little,2016,long,0,risks,2015-2019
+204,2932,The Hackett Group,2010,non precise,0,risk,2010-2014
+205,512,ATOS,2013,mixte,0,risk,2010-2014
+206,3317,BMT,2025,mixte,0,threatened,2020-2025
+207,1565,Huron,2019,mixte,0,compliance,2015-2019
+208,1794,PwC,2007,long,0,compliance,2000-2009
+209,1803,PwC,2014,mixte,0,risk,2010-2014
+210,1311,EY,2010,long,0,compliance,2010-2014
+211,2734,Prophet,2020,mixte,0,crisis,2020-2025
+212,4335,Aon,2025,court,0,compliance,2020-2025
+213,4074,North Highland,2010,non precise,0,risk,2010-2014
+214,2334,Science Applications International Corporation,2018,non precise,0,compliance,2015-2019
+215,434,Arthur D. Little,2013,long,0,risks,2010-2014
+216,1,10EQS,2012,court,0,compliance,2010-2014
+217,460,Arthur D. Little,2017,long,0,risk,2015-2019
+218,3446,Business for Social Responsibility,2015,mixte,0,risks,2015-2019
+219,2471,Mace,2020,non precise,0,risk,2020-2025
+220,673,Black & Veatch,2021,non precise,0,risk,2020-2025
+221,306,Alvarez & Marsal,2022,long,0,risk,2020-2025
+222,2689,Oracle Consulting,2005,non precise,0,compliance,2000-2009
+223,4536,Booz Allen Hamilton,2010,long,0,threats,2010-2014
+224,3340,Booz Allen Hamilton,2015,court,0,threats,2015-2019
+225,5,AArete,2018,long,0,risk,2015-2019
+226,1660,Mott MacDonald,2008,mixte,0,risk,2000-2009
+227,585,Avasant,2015,court,0,risk,2015-2019
+228,3806,EY,2015,court,0,dispute,2015-2019
+229,1105,Capgemini,2003,non precise,1,turbulent,2000-2009
+230,824,Booz Allen Hamilton,2017,mixte,0,disrupt,2015-2019
+231,4118,Slalom Consulting,2015,non precise,0,disruptive,2015-2019
+232,885,Boston Strategies International,2011,mixte,0,risk,2010-2014
+233,1079,Capco,2013,non precise,0,risk,2010-2014
+234,2109,Turner & Townsend,2008,long,0,compliance,2000-2009
+235,1500,HCLTech,2013,long,0,risk,2010-2014
+236,211,AECOM,2013,long,0,compliance,2010-2014
+237,1285,Everest Group,2016,mixte,0,disruptive,2015-2019
+238,432,Arthur D. Little,2012,long,0,risk,2010-2014
+239,698,BMC Software,2007,court,0,compliance,2000-2009
+240,2377,Turner & Townsend,2023,court,0,risk,2020-2025
+241,4031,Mott MacDonald,2010,long,0,risk,2010-2014
+242,2037,The Hackett Group,2012,mixte,1,volatile,2010-2014
+243,965,Business for Social Responsibility,2014,long,0,risk,2010-2014
+244,568,ATOS,2023,court,0,risks,2020-2025
+245,3802,EY,2015,mixte,0,risk,2015-2019

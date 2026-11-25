@@ -1,0 +1,29 @@
+﻿id,nom,id_firme,url_testee,annee_debut_fenetre,premiere_capture,derniere_capture,n_annees_archivees,n_annees_potentielles,taux_couverture,liste_annees,annees_redirection_apres,alertes
+2,3i Infotech,2,us.3i-infotech.com,1996,2025,2025,1,30,0.03,2025,,premiere capture tardive
+9,Accenture,9,www.accenture.com,1996,2000,2024,18,30,0.6,2000;2001;2005;2006;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2024,2025,redirections apres derniere capture (changement de domaine?) | premiere capture tardive
+11,Accuracy,11,www.accuracy.com,2011,2011,2025,14,15,0.93,2011;2012;2013;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,
+23,Amaris Consulting,23,www.amaris.com,2011,2011,2025,13,15,0.87,2011;2012;2013;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,
+31,Arthur D. Little,31,www.adlittle.com,1996,1996,2024,22,30,0.73,1996;2000;2001;2002;2004;2005;2006;2007;2008;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2024,2025,redirections apres derniere capture (changement de domaine?)
+33,AtkinsRealis,33,www.atkinsrealis.com,1996,2023,2025,3,30,0.1,2023;2024;2025,,premiere capture tardive
+49,Bonfiglioli Consulting,49,www.bonfiglioliconsulting.com,1996,2017,2024,8,30,0.27,2017;2018;2019;2020;2021;2022;2023;2024,2025,redirections apres derniere capture (changement de domaine?) | premiere capture tardive
+89,GLG,89,glginsights.com,1998,2021,2025,5,28,0.18,2021;2022;2023;2024;2025,,premiere capture tardive
+91,Grant Thornton Stax,91,www.stax.com,1996,1996,2025,29,30,0.97,1996;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,
+92,Guidepoint,92,www.guidepoint.com,2015,2015,2025,11,11,1.0,2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,
+109,M2P Consulting,109,www.m2p.net,1998,2000,2025,23,28,0.82,2000;2001;2002;2003;2004;2005;2006;2007;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,
+116,msg group,116,www.msg.group,1996,2017,2025,9,30,0.3,2017;2018;2019;2020;2021;2022;2023;2024;2025,,premiere capture tardive
+120,Observatory International,120,www.observatoryinternational.com,2006,2011,2025,11,20,0.55,2011;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,premiere capture tardive
+126,Porsche Consulting,126,www.porsche-consulting.com,1996,2001,2022,6,30,0.2,2001;2002;2003;2016;2018;2022,"2023,2024,2025",captures s'arretent tot | redirections apres derniere capture (changement de domaine?) | premiere capture tardive
+131,Proxima,131,proximagroup.com,1997,2002,2025,15,29,0.52,2002;2003;2012;2013;2014;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,premiere capture tardive
+132,Publicis Sapient,132,www.publicissapient.com,1996,2019,2025,7,30,0.23,2019;2020;2021;2022;2023;2024;2025,,premiere capture tardive
+133,Inizio Ignite,133,inizio.com,1996,2001,2025,18,30,0.6,2001;2002;2003;2006;2007;2011;2013;2014;2015;2016;2017;2018;2019;2020;2021;2023;2024;2025,,premiere capture tardive
+134,Q5,134,www.q5partners.com,2008,2012,2025,12,18,0.67,2012;2013;2014;2015;2016;2017;2020;2021;2022;2023;2024;2025,,premiere capture tardive
+153,Tata Consultancy Services,153,www.tcs.com,1996,1997,2025,28,30,0.93,1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,
+164,TriVista,164,www.trivista.com,2009,2009,2025,17,17,1.0,2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,
+174,AtkinsRealis (ancien domaine (SNC-Lavalin)),33,snclavalin.com,1996,2000,2024,17,30,0.57,2000;2001;2002;2003;2004;2005;2006;2007;2008;2013;2014;2016;2017;2018;2019;2022;2024,2025,redirections apres derniere capture (changement de domaine?) | premiere capture tardive
+175,Publicis Sapient (ancien domaine (Sapient)),132,sapient.com,1996,1996,2025,28,30,0.93,1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2018;2019;2021;2022;2023;2024;2025,,
+176,GLG (ancien domaine),89,glgresearch.com,1998,2011,2023,13,28,0.46,2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023,"2024,2025",captures s'arretent tot | redirections apres derniere capture (changement de domaine?) | premiere capture tardive
+177,Arthur D. Little (ancien domaine),31,arthurdlittle.com,1996,1999,2023,21,30,0.7,1999;2000;2001;2002;2004;2005;2006;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2021;2022;2023,"2024,2025",captures s'arretent tot | redirections apres derniere capture (changement de domaine?)
+178,Bonfiglioli Consulting (ancien domaine),49,bcsoa.it,1996,2001,2025,16,30,0.53,2001;2005;2006;2007;2008;2009;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025,,premiere capture tardive
+179,Porsche Consulting (ancien domaine),126,porsche-consulting.de,1996,2001,2018,7,30,0.23,2001;2002;2003;2006;2016;2017;2018,"2021,2022,2023,2024,2025",captures s'arretent tot | redirections apres derniere capture (changement de domaine?) | premiere capture tardive
+180,3i Infotech (ancien domaine (ICICI Infotech)),2,icici-infotech.com,1996,2000,2025,18,30,0.6,2000;2001;2002;2003;2004;2005;2012;2013;2014;2015;2016;2017;2018;2019;2020;2022;2023;2025,,premiere capture tardive
+181,msg group (ancien domaine (msg systeme)),116,msg-systeme.com,1996,2000,2019,10,30,0.33,2000;2001;2002;2003;2004;2005;2016;2017;2018;2019,,captures s'arretent tot | premiere capture tardive

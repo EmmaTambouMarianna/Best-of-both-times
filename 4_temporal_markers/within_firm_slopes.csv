@@ -1,0 +1,8 @@
+﻿indice,pente_par_an,erreur_type,t,pages,firmes
+indice_explicite,0.0213,0.0071,3.0,770,84
+indice_implicite,0.0318,0.0072,4.4,621,74
+indice_global,0.0306,0.0054,5.7,998,90
+long_explicite_1000,0.1222,0.0259,4.73,1374,93
+court_explicite_1000,0.0275,0.0187,1.47,1374,93
+long_implicite_1000,0.252,0.0542,4.65,1374,93
+court_implicite_1000,-0.0025,0.0176,-0.14,1374,93
